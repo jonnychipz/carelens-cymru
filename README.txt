@@ -28,6 +28,10 @@ and evidence represented in the chart.
 Each home opens in a right-hand evidence drawer with an ordinal four-theme
 rating profile, source-linked key points and separate topic-level RAG triage.
 Those topic signals are not official CIW ratings or verified current risks.
+The application and generated manager reports use the original CareLens Cymru
+identity, never CIW's logo. CIW-branded website-image candidates are excluded
+from home branding. Original source inspection/guidance PDFs remain unchanged
+and may contain their publisher's branding within the original documents.
 Overview displays all four theme donuts together; combined, self-excluding
 filter facets update the available options and every chart. The geographic map
 uses CIW coordinates, follows those filters and opens the same evidence drawer.

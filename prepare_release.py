@@ -4,6 +4,7 @@ import hashlib
 import json
 import shutil
 import sqlite3
+from capture_branding import excluded_regulator_brand
 from copy import deepcopy
 from pathlib import Path
 
@@ -138,6 +139,10 @@ def main():
                 "verified", "logo_status", "listed_website", "website_url", "source_url",
                 "website_title", "checked_at", "website_reachable", "logo_url",
                 "image_kind", "image_alt", "attribution"] if key in source_brand}
+            if excluded_regulator_brand(service["branding"].get("logo_url"), service["branding"].get("image_alt", "")):
+                service["branding"].pop("logo_url", None)
+                service["branding"].pop("image_kind", None)
+                service["branding"].update(verified=False, logo_status="regulator_logo_excluded")
     data["meta"].update(
         release_name="CareLens Cymru",
         public_release=True,

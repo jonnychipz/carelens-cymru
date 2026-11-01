@@ -312,6 +312,7 @@ button:not(:disabled):hover .track{background:var(--cp-accent-hover)}button:not(
 const BASE = __CIW_BASE__;
 const ARCHIVE_LINKS = __CIW_ARCHIVE_LINKS__;
 const DATA = JSON.parse(document.getElementById('ciw-data').textContent);
+for(const service of DATA.services||[]){const brand=service.branding;if(!brand)continue;const value=(brand.logo_url||'')+' '+(brand.image_alt||'');if(/careinspectorate\.wales|arolygiaethgofal\.cymru|\bciw\b|\bcssiw\b|care inspectorate|arolygiaeth gofal/i.test(value)){delete brand.logo_url;brand.verified=false;brand.logo_status='regulator_logo_excluded';}}
 const REPORT_LIBRARY = JSON.parse(document.getElementById('carelens-reports').textContent);
 const managementReports = Array.isArray(REPORT_LIBRARY.reports) ? REPORT_LIBRARY.reports : [];
 const services = Array.isArray(DATA.services) ? DATA.services : [];

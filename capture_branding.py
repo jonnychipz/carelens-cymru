@@ -19,6 +19,16 @@ from bs4 import BeautifulSoup
 ROOT = Path(__file__).resolve().parent
 
 
+def excluded_regulator_brand(url, description=""):
+    if not url:
+        return False
+    parsed = urlparse(url or "")
+    host = (parsed.hostname or "").lower()
+    return (host.endswith(("careinspectorate.wales", "arolygiaethgofal.cymru"))
+            or bool(re.search(r"\bciw\b|\bcssiw\b|care inspectorate|arolygiaeth gofal",
+                              (url or "") + " " + description, re.I)))
+
+
 def website_url(value):
     value = (value or "").strip()
     if re.fullmatch(r"(?:www\.)?(?:[a-z0-9-]+\.)+[a-z]{2,}(?:/[^\s]*)?", value, re.I):
@@ -69,7 +79,7 @@ def fetch_record(session, url):
             if not src or src.startswith("data:"):
                 src = image.get("data-src") or image.get("data-lazy-src")
             candidate = candidate_url(src, final)
-            if candidate:
+            if candidate and not excluded_regulator_brand(candidate, description):
                 candidates.append((candidate, "Website logo", image.get("alt", "")))
         for image in soup.find_all("link"):
             rel = " ".join(image.get("rel") or [])
@@ -80,6 +90,8 @@ def fetch_record(session, url):
         seen = set()
         for candidate, kind, alt in candidates[:8]:
             if candidate in seen:
+                continue
+            if excluded_regulator_brand(candidate, alt):
                 continue
             seen.add(candidate)
             image_response = session.get(candidate, timeout=(3, 5), stream=True)
@@ -92,7 +104,7 @@ def fetch_record(session, url):
                 if not prefix:
                     continue
                 resolved = candidate_url(image_response.url, final)
-                if not resolved:
+                if not resolved or excluded_regulator_brand(resolved, alt):
                     continue
                 record.update(verified=True, logo_status="source_image_verified", logo_url=resolved,
                               image_kind=kind, image_alt=alt,
@@ -116,6 +128,11 @@ def main():
     existing_path = ROOT / "customer-branding.json"
     existing = json.loads(existing_path.read_text(encoding="utf-8")) if existing_path.exists() else {"websites": {}}
     websites = existing["websites"]
+    for url, record in list(websites.items()):
+        if excluded_regulator_brand(record.get("logo_url"), record.get("image_alt", "")):
+            record.pop("logo_url", None)
+            record.pop("image_kind", None)
+            record.update(verified=False, logo_status="regulator_logo_excluded")
     urls = Counter(website_url(s.get("website")) for s in data["services"])
     urls.pop(None, None)
     session = requests.Session()

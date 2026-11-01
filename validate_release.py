@@ -7,6 +7,7 @@ from collections import Counter
 from pathlib import Path
 
 import fitz
+from capture_branding import excluded_regulator_brand
 
 ROOT = Path(__file__).resolve().parent
 PUBLIC = ROOT / "public"
@@ -23,6 +24,9 @@ def main():
     if {s["urn"] for s in data["services"]} != {s["urn"] for s in private["services"]}:
         errors.append("Public and source inventories do not match.")
     for service in data["services"]:
+        brand = service.get("branding", {})
+        if excluded_regulator_brand(brand.get("logo_url"), brand.get("image_alt", "")):
+            errors.append(f"{service['urn']}: excluded regulator logo reference remains.")
         if FORBIDDEN & service.keys():
             errors.append(f"{service['urn']}: excluded directory fields remain.")
         if any("responsible individual" in c.lower() for c in service["conditions"]):
