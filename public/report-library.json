@@ -29,7 +29,7 @@
       "exact_source_page_examples_verified": 1825,
       "baseline_pdf_pages": 23,
       "monthly_pdf_pages_min": 2,
-      "monthly_pdf_pages_max": 12
+      "monthly_pdf_pages_max": 17
     }
   },
   "reports": [
@@ -51404,7 +51404,7 @@
         },
         "report_denominator": 1,
         "rating_denominator": 1,
-        "generated_pdf_pages": 7
+        "generated_pdf_pages": 8
       },
       "pdf": "management-reports/2021-06.pdf",
       "html": "management-reports/2021-06.html",
@@ -53176,7 +53176,7 @@
         },
         "report_denominator": 2,
         "rating_denominator": 2,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 14
       },
       "pdf": "management-reports/2022-10.pdf",
       "html": "management-reports/2022-10.html",
@@ -53831,7 +53831,7 @@
         },
         "report_denominator": 1,
         "rating_denominator": 1,
-        "generated_pdf_pages": 7
+        "generated_pdf_pages": 8
       },
       "pdf": "management-reports/2022-12.pdf",
       "html": "management-reports/2022-12.html",
@@ -54799,7 +54799,7 @@
         },
         "report_denominator": 1,
         "rating_denominator": 1,
-        "generated_pdf_pages": 6
+        "generated_pdf_pages": 8
       },
       "pdf": "management-reports/2023-07.pdf",
       "html": "management-reports/2023-07.html",
@@ -55611,7 +55611,7 @@
         },
         "report_denominator": 1,
         "rating_denominator": 1,
-        "generated_pdf_pages": 7
+        "generated_pdf_pages": 8
       },
       "pdf": "management-reports/2023-11.pdf",
       "html": "management-reports/2023-11.html",
@@ -56629,7 +56629,7 @@
         },
         "report_denominator": 3,
         "rating_denominator": 3,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 13
       },
       "pdf": "management-reports/2024-03.pdf",
       "html": "management-reports/2024-03.html",
@@ -57320,7 +57320,7 @@
         },
         "report_denominator": 1,
         "rating_denominator": 1,
-        "generated_pdf_pages": 7
+        "generated_pdf_pages": 8
       },
       "pdf": "management-reports/2024-04.pdf",
       "html": "management-reports/2024-04.html",
@@ -58029,7 +58029,7 @@
         },
         "report_denominator": 2,
         "rating_denominator": 2,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 14
       },
       "pdf": "management-reports/2024-05.pdf",
       "html": "management-reports/2024-05.html",
@@ -58641,7 +58641,7 @@
         },
         "report_denominator": 1,
         "rating_denominator": 1,
-        "generated_pdf_pages": 7
+        "generated_pdf_pages": 8
       },
       "pdf": "management-reports/2024-06.pdf",
       "html": "management-reports/2024-06.html",
@@ -59301,7 +59301,7 @@
         },
         "report_denominator": 2,
         "rating_denominator": 2,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 13
       },
       "pdf": "management-reports/2024-07.pdf",
       "html": "management-reports/2024-07.html",
@@ -60189,7 +60189,7 @@
         },
         "report_denominator": 6,
         "rating_denominator": 6,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 14
       },
       "pdf": "management-reports/2024-08.pdf",
       "html": "management-reports/2024-08.html",
@@ -61047,7 +61047,7 @@
         },
         "report_denominator": 4,
         "rating_denominator": 4,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 13
       },
       "pdf": "management-reports/2024-09.pdf",
       "html": "management-reports/2024-09.html",
@@ -62109,7 +62109,7 @@
         },
         "report_denominator": 7,
         "rating_denominator": 7,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 14
       },
       "pdf": "management-reports/2024-10.pdf",
       "html": "management-reports/2024-10.html",
@@ -63116,7 +63116,7 @@
         },
         "report_denominator": 7,
         "rating_denominator": 7,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 13
       },
       "pdf": "management-reports/2024-11.pdf",
       "html": "management-reports/2024-11.html",
@@ -64206,7 +64206,7 @@
         },
         "report_denominator": 8,
         "rating_denominator": 8,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 13
       },
       "pdf": "management-reports/2024-12.pdf",
       "html": "management-reports/2024-12.html",
@@ -65522,7 +65522,7 @@
         },
         "report_denominator": 15,
         "rating_denominator": 15,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 16
       },
       "pdf": "management-reports/2025-01.pdf",
       "html": "management-reports/2025-01.html",
@@ -67274,7 +67274,7 @@
         },
         "report_denominator": 22,
         "rating_denominator": 22,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2025-02.pdf",
       "html": "management-reports/2025-02.html",
@@ -69177,7 +69177,7 @@
         },
         "report_denominator": 23,
         "rating_denominator": 23,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2025-03.pdf",
       "html": "management-reports/2025-03.html",
@@ -71019,7 +71019,7 @@
         },
         "report_denominator": 18,
         "rating_denominator": 18,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2025-04.pdf",
       "html": "management-reports/2025-04.html",
@@ -72684,7 +72684,7 @@
         },
         "report_denominator": 22,
         "rating_denominator": 22,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2025-05.pdf",
       "html": "management-reports/2025-05.html",
@@ -74921,7 +74921,7 @@
         },
         "report_denominator": 37,
         "rating_denominator": 37,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2025-06.pdf",
       "html": "management-reports/2025-06.html",
@@ -77615,7 +77615,7 @@
         },
         "report_denominator": 40,
         "rating_denominator": 40,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2025-07.pdf",
       "html": "management-reports/2025-07.html",
@@ -80253,7 +80253,7 @@
         },
         "report_denominator": 35,
         "rating_denominator": 35,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2025-08.pdf",
       "html": "management-reports/2025-08.html",
@@ -83087,7 +83087,7 @@
         },
         "report_denominator": 44,
         "rating_denominator": 44,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2025-09.pdf",
       "html": "management-reports/2025-09.html",
@@ -86106,7 +86106,7 @@
         },
         "report_denominator": 37,
         "rating_denominator": 37,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2025-10.pdf",
       "html": "management-reports/2025-10.html",
@@ -89040,7 +89040,7 @@
         },
         "report_denominator": 47,
         "rating_denominator": 47,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2025-11.pdf",
       "html": "management-reports/2025-11.html",
@@ -91865,7 +91865,7 @@
         },
         "report_denominator": 28,
         "rating_denominator": 28,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2025-12.pdf",
       "html": "management-reports/2025-12.html",
@@ -94325,7 +94325,7 @@
         },
         "report_denominator": 31,
         "rating_denominator": 31,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2026-01.pdf",
       "html": "management-reports/2026-01.html",
@@ -97247,7 +97247,7 @@
         },
         "report_denominator": 45,
         "rating_denominator": 45,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2026-02.pdf",
       "html": "management-reports/2026-02.html",
@@ -101067,7 +101067,7 @@
         },
         "report_denominator": 64,
         "rating_denominator": 64,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 16
       },
       "pdf": "management-reports/2026-03.pdf",
       "html": "management-reports/2026-03.html",
@@ -105105,7 +105105,7 @@
         },
         "report_denominator": 56,
         "rating_denominator": 56,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 16
       },
       "pdf": "management-reports/2026-04.pdf",
       "html": "management-reports/2026-04.html",
@@ -108950,7 +108950,7 @@
         },
         "report_denominator": 51,
         "rating_denominator": 51,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 16
       },
       "pdf": "management-reports/2026-05.pdf",
       "html": "management-reports/2026-05.html",
@@ -112861,7 +112861,7 @@
         },
         "report_denominator": 61,
         "rating_denominator": 61,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 15
       },
       "pdf": "management-reports/2026-06.pdf",
       "html": "management-reports/2026-06.html",
@@ -117439,7 +117439,7 @@
         },
         "report_denominator": 73,
         "rating_denominator": 73,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 17
       },
       "pdf": "management-reports/2026-07.pdf",
       "html": "management-reports/2026-07.html",
@@ -121585,7 +121585,7 @@
         },
         "report_denominator": 48,
         "rating_denominator": 48,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 17
       },
       "pdf": "management-reports/2026-08.pdf",
       "html": "management-reports/2026-08.html",
@@ -125777,7 +125777,7 @@
         },
         "report_denominator": 71,
         "rating_denominator": 71,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 17
       },
       "pdf": "management-reports/2026-09.pdf",
       "html": "management-reports/2026-09.html",
@@ -130508,7 +130508,7 @@
         },
         "report_denominator": 65,
         "rating_denominator": 65,
-        "generated_pdf_pages": 12
+        "generated_pdf_pages": 16
       },
       "pdf": "management-reports/2026-10.pdf",
       "html": "management-reports/2026-10.html",

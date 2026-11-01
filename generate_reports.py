@@ -485,6 +485,113 @@ class MentionChart(Flowable):
                    3.5*mm, stroke=0, fill=1)
             c.drawRightString(172*mm, y, f'{topic["report_mentions"]}/{self.denominator}')
 
+PDF_INK = colors.HexColor("#18232b")
+PDF_ACCENT = colors.HexColor("#b62948")
+PDF_MUTED = colors.HexColor("#566571")
+PDF_LINE = colors.HexColor("#dce2e7")
+PDF_RATINGS = {"Excellent": colors.HexColor("#387460"), "Good": colors.HexColor("#63917f"),
+               "Requires Improvement": colors.HexColor("#a56a1d"),
+               "Requires Significant Improvement": PDF_ACCENT,
+               "Not published": colors.HexColor("#a7b3bd")}
+
+
+def draw_brand_mark(canvas, x, y, size):
+    canvas.saveState()
+    canvas.translate(x, y)
+    canvas.scale(size / 64, size / 64)
+    canvas.setStrokeColor(PDF_ACCENT)
+    canvas.setLineWidth(4)
+    canvas.arc(5, 7, 55, 57, 35, 290)
+    canvas.setStrokeColor(PDF_INK)
+    canvas.setLineWidth(2.7)
+    path = canvas.beginPath()
+    path.moveTo(20, 32); path.lineTo(32, 43); path.lineTo(44, 32)
+    path.moveTo(23, 34); path.lineTo(23, 19); path.lineTo(41, 19); path.lineTo(41, 34)
+    path.moveTo(29, 19); path.lineTo(29, 29); path.lineTo(35, 29); path.lineTo(35, 19)
+    canvas.drawPath(path)
+    canvas.setFillColor(PDF_ACCENT)
+    canvas.circle(53, 32, 3.5, stroke=0, fill=1)
+    canvas.restoreState()
+
+
+class BrandHeading(Flowable):
+    def __init__(self):
+        super().__init__()
+        self.width, self.height = 174 * mm, 25 * mm
+
+    def draw(self):
+        draw_brand_mark(self.canv, 0, 2 * mm, 21 * mm)
+        self.canv.setFillColor(PDF_INK)
+        self.canv.setFont(BOLD, 24)
+        self.canv.drawString(26 * mm, 13 * mm, "CareLens Cymru")
+        self.canv.setFillColor(PDF_MUTED)
+        self.canv.setFont(FONT, 10)
+        self.canv.drawString(26 * mm, 6 * mm, "Inspection evidence. Better care.")
+
+
+class RatingDonuts(Flowable):
+    def __init__(self, ratings, denominator):
+        super().__init__()
+        self.ratings, self.denominator = ratings, denominator
+        self.width, self.height = 174 * mm, 86 * mm
+
+    def draw(self):
+        c = self.canv
+        order = list(PDF_RATINGS)
+        names = ["Well-being", "Care & support", "Environment", "Leadership"]
+        for index, (theme, counts) in enumerate(self.ratings.items()):
+            x = index * 43.5 * mm
+            c.setFillColor(PDF_INK); c.setFont(BOLD, 9)
+            c.drawCentredString(x + 21 * mm, 80 * mm, names[index])
+            if index == 3:
+                c.setFont(FONT, 8); c.drawCentredString(x + 21 * mm, 75 * mm, "& management")
+            start = 90
+            for rating in order:
+                number = counts.get(rating, 0)
+                if not number:
+                    continue
+                sweep = number / max(self.denominator, 1) * 360
+                c.setFillColor(PDF_RATINGS[rating])
+                c.wedge(x + 7 * mm, 43 * mm, x + 35 * mm, 71 * mm,
+                        start, -sweep, stroke=0, fill=1)
+                start -= sweep
+            c.setFillColor(colors.white)
+            c.circle(x + 21 * mm, 57 * mm, 9 * mm, stroke=0, fill=1)
+            c.setFillColor(PDF_INK); c.setFont(BOLD, 12)
+            c.drawCentredString(x + 21 * mm, 57 * mm, f"{self.denominator:,}")
+            c.setFont(FONT, 7); c.drawCentredString(x + 21 * mm, 52 * mm, "homes")
+            y = 36 * mm
+            for rating in order:
+                number = counts.get(rating, 0)
+                if not number:
+                    continue
+                c.setFillColor(PDF_RATINGS[rating]); c.circle(x + 2 * mm, y + 1, 2, stroke=0, fill=1)
+                c.setFillColor(PDF_INK); c.setFont(FONT, 6.6)
+                label = {"Requires Improvement": "Requires improv.",
+                         "Requires Significant Improvement": "Significant improv."}.get(rating, rating)
+                c.drawString(x + 5 * mm, y, label)
+                c.drawRightString(x + 41 * mm, y, f"{number} ({100*number/max(self.denominator,1):.0f}%)")
+                y -= 5.3 * mm
+
+
+class ActionStatusChart(Flowable):
+    def __init__(self, counts):
+        super().__init__()
+        self.counts = counts
+        self.width, self.height = 174 * mm, max(20, 10 + len(counts) * 10) * mm
+
+    def draw(self):
+        c = self.canv
+        maximum = max([1, *self.counts.values()])
+        for index, (status, number) in enumerate(self.counts.items()):
+            y = self.height - (index + 1) * 10 * mm
+            c.setFillColor(PDF_INK); c.setFont(FONT, 9)
+            c.drawString(0, y + mm, status)
+            c.setFillColor(colors.HexColor("#f1f4f6")); c.roundRect(45 * mm, y, 108 * mm, 4 * mm, 2, stroke=0, fill=1)
+            c.setFillColor(PDF_RATINGS["Excellent"] if status == "Achieved" else PDF_ACCENT)
+            c.roundRect(45 * mm, y, max(1, number / maximum * 108 * mm), 4 * mm, 2, stroke=0, fill=1)
+            c.setFillColor(PDF_INK); c.drawRightString(171 * mm, y + mm, str(number))
+
 
 FONT = "Helvetica"
 BOLD = "Helvetica-Bold"
@@ -515,18 +622,23 @@ def write_pdf(report, path, snapshot):
     styles = getSampleStyleSheet()
     for name in ["Normal", "BodyText"]:
         styles[name].fontName = FONT
-        styles[name].fontSize = 9
-        styles[name].leading = 13
-        styles[name].spaceAfter = 7
+        styles[name].fontSize = 10.5
+        styles[name].leading = 15.5
+        styles[name].spaceAfter = 9
     for name in ["Title", "Heading1", "Heading2", "Heading3"]:
         styles[name].fontName = BOLD
-        styles[name].textColor = colors.HexColor("#172f42")
+        styles[name].textColor = PDF_INK
     styles["Title"].fontSize, styles["Title"].leading = 25, 30
-    styles.add(ParagraphStyle("Small", fontName=FONT, fontSize=7.5, leading=10, spaceAfter=5))
-    styles.add(ParagraphStyle("Quote", parent=styles["BodyText"], fontSize=8.3, leading=11.5,
+    styles["Heading1"].fontSize, styles["Heading1"].leading = 20, 25
+    styles["Heading1"].spaceBefore, styles["Heading1"].spaceAfter = 12, 12
+    styles["Heading2"].fontSize, styles["Heading2"].leading = 14, 19
+    styles["Heading2"].spaceBefore, styles["Heading2"].spaceAfter = 10, 8
+    styles["Heading3"].fontSize, styles["Heading3"].leading = 11, 15
+    styles.add(ParagraphStyle("Small", fontName=FONT, fontSize=8.5, leading=12, spaceAfter=7))
+    styles.add(ParagraphStyle("Quote", parent=styles["BodyText"], fontSize=9.3, leading=13.5,
                               leftIndent=8, borderColor=colors.HexColor("#d6e1e9"),
                               borderWidth=.5, borderPadding=7, spaceBefore=5, spaceAfter=8))
-    styles.add(ParagraphStyle("Cell", parent=styles["Small"], spaceAfter=0))
+    styles.add(ParagraphStyle("Cell", parent=styles["Small"], fontSize=8, leading=11, spaceAfter=0))
     story = []
     sources = {source["urn"]: source for source in report["source_index"]}
 
@@ -565,7 +677,8 @@ def write_pdf(report, path, snapshot):
 
     baseline = report["kind"] == "baseline"
     count = report["summary"]["reports"]
-    add("CareLens Cymru", "Title")
+    story.append(BrandHeading())
+    story.append(Spacer(1, 8 * mm))
     add(report["title"], "Heading1")
     add("Independent manager learning | source: CIW / Welsh Government", "Heading2")
     add(f'Publication period: {report["period_start"]} to {report["period_end"]}\nSnapshot: {snapshot}\nFixed all-data period cohort; latest archived reports only.')
@@ -583,10 +696,14 @@ def write_pdf(report, path, snapshot):
         story.append(PageBreak())
         add("Coverage and exact published ratings", "Heading1")
         add("The rating denominator is all homes in this fixed cohort. Not published is explicit. Snapshot rating dates are not guaranteed to align with report publication dates.")
+        story.append(RatingDonuts(report["ratings"], report["summary"]["services"]))
         rating_rows = [[theme, rating, str(number), f'{number}/{report["summary"]["services"]}']
                        for theme, counts in report["ratings"].items() for rating, number in sorted(counts.items())]
         table(["Theme", "Published rating", "Homes", "Denominator"], rating_rows, [65*mm, 48*mm, 22*mm, 35*mm])
         add("Action-table status", "Heading2")
+        if report["coverage"]["action_rows_by_published_status"]:
+            story.append(ActionStatusChart(report["coverage"]["action_rows_by_published_status"]))
+            add("Source status, not present-day failures. Unknown means no status was captured; Achieved remains historical.", "Small")
         table(["Published status", "Specific rows"], list(report["coverage"]["action_rows_by_published_status"].items()) or [["No rows", 0]], [120*mm, 50*mm])
         add(f'{report["coverage"]["official_summary_reports"]} official summaries; {report["coverage"]["labelled_theme_extract_reports"]} labelled theme extracts. {report["coverage"]["finding_rows"]:,} finding rows and {report["coverage"]["section_count"]:,} sections were considered.')
         if baseline:
@@ -601,9 +718,8 @@ def write_pdf(report, path, snapshot):
               [[t["name"], t["report_mentions"], t["positive_services"], t["improvement_wording_services"],
                 t["action_services"], t["priority_services"]] for t in report["topics"]],
               [63*mm, 20*mm, 20*mm, 30*mm, 19*mm, 18*mm])
-        if baseline:
-            add("Distinct reports mentioning each topic", "Heading2")
-            story.append(MentionChart(report["topics"], count))
+        add("Distinct reports mentioning each topic", "Heading2")
+        story.append(MentionChart(report["topics"], count))
         add("Interpret the patterns", "Heading2")
         ranked = sorted(report["topics"], key=lambda t: (-t["action_services"], -t["improvement_wording_services"], t["id"]))
         active = [t for t in ranked if t["source_urns"]]
@@ -687,16 +803,19 @@ def write_pdf(report, path, snapshot):
         canvas.setTitle(f'CareLens Cymru | {report["title"]}')
         canvas.setAuthor("CareLens Cymru | CIW public-source learning")
         canvas.setSubject("Fixed cohort manager learning; report publication month basis")
-        canvas.setFont(FONT, 7.5)
-        canvas.setFillColor(colors.HexColor("#526778"))
-        canvas.drawString(18*mm, 285*mm, "CareLens Cymru  |  " + report["id"] + "  |  latest archived reports only")
-        canvas.line(18*mm, 282*mm, 192*mm, 282*mm)
+        draw_brand_mark(canvas, 18 * mm, 282.5 * mm, 10 * mm)
+        canvas.setFont(BOLD, 9)
+        canvas.setFillColor(PDF_INK)
+        canvas.drawString(31*mm, 289*mm, "CareLens Cymru")
+        canvas.setFont(FONT, 7.5); canvas.setFillColor(PDF_MUTED)
+        canvas.drawString(31*mm, 284*mm, report["id"] + "  |  latest archived reports only")
+        canvas.setStrokeColor(PDF_LINE); canvas.line(18*mm, 281*mm, 192*mm, 281*mm)
         canvas.drawString(18*mm, 12*mm, "CIW / Welsh Government | Crown copyright / Open Government Licence")
         canvas.drawRightString(192*mm, 12*mm, f"Page {doc.page}")
         canvas.restoreState()
 
     doc = SimpleDocTemplate(str(path), pagesize=(210*mm, 297*mm),
-                            rightMargin=18*mm, leftMargin=18*mm, topMargin=20*mm,
+                            rightMargin=18*mm, leftMargin=18*mm, topMargin=23*mm,
                             bottomMargin=21*mm, title=f'CareLens Cymru | {report["title"]}')
     doc.build(story, onFirstPage=page_decoration, onLaterPages=page_decoration)
 
