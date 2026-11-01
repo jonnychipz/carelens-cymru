@@ -1,0 +1,4475 @@
+--- PAGE 1 ---
+ DRAFT v.8 
+ 
+ 
+ 
+
+
+--- PAGE 2 ---
+ 
+                                                                                                                                                             
+Mae’r ddogfen yma hefyd ar gael yn Gymraeg / This document is also available in Welsh 
+© Crown copyright 2025 
+WG51907 
+Digital ISBN 978-1-83715-479-1 
+
+
+--- PAGE 3 ---
+ 
+ 
+Page 3 of 63 
+CIW-DR-0198 
+ 
+Contents 
+ 
+Introduction .............................................................................................................. 4 
+Section 1: Applying ratings ..................................................................................... 7 
+Providing Assurance ............................................................................................... 7 
+Applying ratings using descriptors .......................................................................... 7 
+Securing improvement decision making framework ................................................ 9 
+Difficulties in determining a rating ......................................................................... 11 
+Feedback following inspection .............................................................................. 11 
+Reporting .............................................................................................................. 12 
+How can providers respond to an inspection report? ............................................ 13 
+Recording and displaying ratings .......................................................................... 13 
+Securing Improvement .......................................................................................... 14 
+Section 2: Lines of enquiry and ratings descriptors ........................................... 16 
+Inspection theme: Well-being ................................................................................ 19 
+Inspection theme: Care and Support .................................................................... 33 
+Inspection theme: Environment ............................................................................. 45 
+Inspection Theme: Leadership and Management ................................................. 51 
+ 
+ 
+
+
+--- PAGE 4 ---
+ 
+ 
+Page 4 of 63 
+CIW-DR-0198 
+Introduction 
+ 
+1. This framework provides guidance for inspectors and service providers about 
+CIWs approach to inspection and applying ratings to inspections of care home 
+services and domiciliary support services inspected under the Regulation and 
+Inspection of Social Care (Wales) Act 20161 (2016 Act).  The approach, 
+including lines of enquiry, also applies to the inspection of residential family 
+centres and secure accommodation although we will not be awarding ratings 
+following inspection.  
+ 
+2. The framework should be read in conjunction with our Code of Practice for 
+Inspection for regulated services2 and, for inspectors, relevant internal practice 
+guidance related to inspection, evidence gathering and reporting writing.  
+ 
+3. Inspection provides assurance for the public; it also supports continuous 
+improvement in services. This framework helps to describe outcomes for people 
+and guide what ratings we will award. 
+ 
+4. When inspecting, we consider four themes aligned to the regulations and 
+statutory guidance 
+• Well-being,  
+• Care and Support,  
+• Leadership and Management  
+• Environment (for accommodation-based services only) 
+ 
+5. It is important to remember inspection, and the awarding of ratings arising from 
+this, is underpinned by standards of service provision as set out in the 
+regulations but it is about the specific context of the service being inspected. No 
+two services are identical – each will have different people living at or using the 
+service and different staff teams. This will affect what we see, hear and read. 
+Therefore, services are judged within their own context.  
+ 
+ 
+Implementation of a ratings system 
+ 
+6. Under section 37 of the 2016 Act, the Welsh Ministers can make regulations for 
+ratings that may be given in relation to the quality of care and support provided 
+by a service provider following an inspection. The Regulated Services 
+(Inspection Ratings) (Wales) Regulations 2025 came into force on 31 March 
+2025.  
+ 
+ 
+ 
+ 
+1 http://www.legislation.gov.uk/anaw/2016/2/contents/enacted  
+2 https://careinspectorate.wales/providing-a-care-service/our-inspections  
+
+
+--- PAGE 5 ---
+ 
+ 
+Page 5 of 63 
+CIW-DR-0198 
+ 
+ 
+ 
+Rights based approach  
+ 
+7. Our ratings framework reflects our commitment to promoting and upholding the 
+rights of people who use care and support services. This includes, but is not 
+limited to the rights of people set out in the following legal frameworks:  
+ 
+• The Human Rights Act 19983  
+• The Equality Act 20104  
+• The United Nations Convention on the Rights of the Child (UNCR)5  
+• The United Nations Convention on the Rights of Persons with Disabilities6  
+• The United Nations Principles for Older Persons  
+• The Mental Capacity Act 20057  
+• The Deprivation of Liberty Safeguards (DoLS)8 
+• The Welsh Language Standards9 
+ 
+8. Further information on our commitment to upholding human rights within our 
+regulatory and inspection work is set out on our website10. Further information 
+on our rights-based approach to inspection is also set out in our Code of 
+Practice for Inspection of Regulated Services11. 
+ 
+ 
+ 
+ 
+ 
+ 
+3 https://www.equalityhumanrights.com/en/human-rights/human-rights-act  
+4 https://www.gov.uk/guidance/equality-act-2010-guidance  
+5 https://www.gov.uk/government/publications/united-nations-convention-on-the-rights-of-the-child-
+uncrc-how-legislation-underpins-implementation-in-england  
+6 https://www.equalityhumanrights.com/en/our-human-rights-work/monitoring-and-promoting-un-
+treaties/un-convention-rights-persons-disabilities  
+7 https://www.legislation.gov.uk/ukpga/2005/9/contents  
+8 Due to be replaced by the Liberty Protection Safeguards 
+9 https://www.legislation.gov.uk/wsi/2015/996/schedule/1/made  
+10 https://careinspectorate.wales/providing-a-care-service/our-inspections 
+11 Code of Practice for Inspection of Regulated Services (HTML document) | Care Inspectorate Wales 
+
+
+--- PAGE 6 ---
+ 
+ 
+Page 6 of 63 
+CIW-DR-0198 
+ 
+ 
+
+
+--- PAGE 7 ---
+ 
+ 
+Page 7 of 63 
+CIW-DR-0198 
+Section 1: Applying ratings  
+ 
+Providing Assurance  
+ 
+1. We have a regulatory duty to discharge and offer public assurance. Our primary 
+concern is to ensure providers support people to achieve the best possible 
+outcomes and keep them safe.  
+ 
+2. We take a strengths based approach in line with the Social Services and Well-
+being (Wales) Act 201412 and will recognise quality. Where necessary we will 
+act to secure improvement. Our approach is set out in our securing 
+improvement and enforcement policy13.  
+ 
+3. Well-being is about the lived experiences of people, their outcomes and how 
+well they are supported to achieve them. Each inspection theme is considered 
+in relation to how well people’s well-being outcomes are being achieved, 
+whether the service is safe, and people’s human rights are being met in line with 
+the relevant regulations and associated statutory guidance. In reaching a 
+decision to award a rating for each inspection theme, all evidence gathered 
+during an inspection activity will be considered. 
+ 
+Applying ratings using descriptors 
+  
+4. Each inspection theme will be awarded a rating. We do not award an overall 
+rating for the service as a whole.  
+ 
+5. Ratings are: 
+  
+• Excellent 
+• Good 
+• Requires improvement 
+• Requires significant improvement   
+ 
+6. Section 2 contains detailed descriptors for ratings of each inspection theme to 
+help people, inspectors, providers, commissioners, and other stakeholders 
+understand what ratings mean.  
+ 
+ 
+The statutory guidance issued under the 2016 Act essentially sets out what 
+“good” looks like. Therefore, we have mapped this across each of our inspection 
+ 
+12 Social Services and Well-being (Wales) Act 2014 
+13 Securing Improvement and Enforcement Policy (HTML document) | Care Inspectorate Wales 
+
+
+--- PAGE 8 ---
+ 
+ 
+Page 8 of 63 
+CIW-DR-0198 
+themes and developed additional descriptors for Excellent, Requires 
+improvement, and Requires significant improvement. These descriptors help 
+inspectors apply consistent ratings and guides providers on what informs us 
+under each rating. The descriptors also offer guidance for service providers to 
+support continuous improvement.  
+  
+7. All evidence gathered during inspection is considered when deciding which 
+rating should be awarded. The descriptors are examples to inform this decision 
+making. Not every example will be relevant to every service, it is not a tick box 
+exercise. We will consider which descriptors best fit the evidence gathered 
+during inspection in relation to the overall theme and on balance its impact on 
+people’s outcomes. For example, we may see some excellent practice and will 
+note this in the report, but this may not lead to an excellent rating for the theme 
+as a whole.    
+ 
+8. When considering awarding Excellent or Requires significant improvement 
+in any inspection theme the supporting evidence is reviewed and discussed with 
+the team manager. This encourages a process for constructive challenge and 
+helps to ensures consistency in our application of ratings.  
+ 
+ 
+9. If failures are identified which require a priority action notice to be issued, i.e. 
+there are poor outcomes / significant risks to the well-being of people, then the 
+inspection theme must be rated as Requires significant improvement. To 
+decide this, we look at the risk to people.  
+ 
+ 
+If we identify issues or concerns which have negligible impact or risk to people, 
+and can be resolved quickly, and which are unlikely to reoccur, they will be 
+recorded in the inspection record and discussed during feedback to the 
+provider. This will not affect the rating awarded for the relevant theme and will 
+not be included in the report. 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 9 ---
+ 
+ 
+Page 9 of 63 
+CIW-DR-0198 
+Securing improvement decision making framework 
+ 
+10. We use a risk assessment tool to support our decision-making process. We 
+assess the impact on and / or potential risk to the well-being of people using the 
+service using the following risk level definitions14: 
+ 
+11. Level of impact / risk to outcomes for people 
+Level of 
+impact/risk Definition 
+Negligible 
+• Where people enjoy good well-being outcomes, and it is 
+very unlikely outcomes could be impacted by the issues we 
+have found. 
+• The service provided is safe overall. 
+Minor 
+• Where the issues identified have resulted in minor impact or 
+risk of harm to people’s well-being outcomes. 
+Moderate 
+• Where the issues identified have resulted in a moderate 
+impact or risk of harm to people’s well-being outcomes 
+including infringement of their rights. 
+Major 
+• Where the issues identified represent, significant failings 
+resulting in a major/significant impact15 on or significant risk 
+of harm to people’s well-being outcomes including 
+infringement of their rights. 
+Or 
+• permanent disability. 
+Or 
+• significant or irreversible adverse health condition. 
+ 
+ 
+ 
+ 
+14 Securing Improvement and Enforcement Policy (HTML document) | Care Inspectorate Wales 
+15 CIW’s human rights document identifies the unacceptable care that would have a significant impact 
+on people’s well-being. Our commitment to promoting and upholding the rights of people who use 
+social care and childcare services (careinspectorate.wales) 
+
+
+--- PAGE 10 ---
+ 
+ 
+Page 10 of 63 
+CIW-DR-0198 
+12. We assess whether the likelihood the failings will continue or reoccur in the future 
+based on the following definitions16: 
+ 
+Likelihood of the 
+impact on people’s 
+outcomes continuing or 
+reoccurring 
+Definition 
+Unlikely 
+The factors impacting on people’s outcomes are 
+unlikely to continue or reoccur as: 
+• measures have been taken or are currently being 
+implemented to address the issues identified 
+and/or fully manage the impact/risk and/or 
+• we are confident the provider has the capacity, 
+capability and commitment to ensure the issues 
+identified are addressed 
+Likely 
+The factors impacting on people’s outcomes are likely 
+to continue or reoccur as: 
+• insufficient or ineffective measures are in place to 
+fully manage the impact / risk or address the 
+issues identified and/or 
+• there is insufficient capacity, capability, or 
+commitment from the provider to manage the 
+impact/risk and/or address the issues identified. 
+ 
+13.  We determine the appropriate action in response to potential risk and / or 
+impact on people’s well-being arising from breaches of regulation. To determine 
+our response where issues are identified, we use the following table17 
+ 
+       Likelihood of re-occurrence 
+Likely 
+For RISCA 
+services discuss 
+with provider in 
+feedback and 
+record in 
+feedback 
+section of 
+inspection notes 
+Priority Action 
+Notice 
+or 
+Area for 
+Improvement 
+(Inspector’s 
+judgement) 
+Priority Action 
+Notice 
+Priority Action 
+Notice 
+Unlikely 
+Area for 
+Improvement 
+Priority Action 
+Notice 
+or 
+Area for 
+Improvement 
+(Inspector’s 
+judgement) 
+Priority Action 
+Notice 
+ 
+Negligible 
+Minor 
+Moderate 
+Major 
+              Level of impact/potential risk to service user 
+ 
+16 Securing Improvement and Enforcement Policy (HTML document) | Care Inspectorate Wales 
+17 Securing Improvement and Enforcement Policy (HTML document) | Care Inspectorate Wales 
+
+
+--- PAGE 11 ---
+ 
+ 
+Page 11 of 63 
+CIW-DR-0198 
+Difficulties in determining a rating 
+ 
+14. Following evaluation of the evidence, if inspectors are undecided about the rating 
+for a theme, they should refer back to this guidance document and the securing 
+improvement and enforcement policy. This will help to ensure the evidence is 
+reassessed accurately and consistently. For example, to achieve a good rating in 
+relation to the specific theme, a service should be demonstrating they are 
+supporting many people to achieve their well-being outcomes.  If further evidence 
+is required to establish this, inspectors may seek additional information from the 
+service provider to assist in making a final decision. 
+ 
+15. If we highlight an aspect of an inspection theme which is an area for 
+improvement, we will take a balanced approach when deciding on the rating for 
+the theme by considering whether the remaining aspects of the theme can be 
+rated as good. This means the theme as a whole may still be rated as good, 
+even though we have highlighted an area for improvement. This will also be 
+reflected in the report.  
+ 
+ 
+Feedback following inspection 
+ 
+16. Providing feedback is an essential part of inspection, supporting continuous 
+service improvement. Feedback will be structured around the inspection 
+themes. It is an important opportunity to give the manager and Responsible 
+Individual (RI) an overview of the findings and to check and test the evidence 
+we may be relying on to award ratings.  
+ 
+17. Service providers may find it helpful to consider where they rate themselves at 
+the beginning of the inspection process, and to reflect on that self-assessment 
+during feedback. 
+ 
+18. Initial feedback should be provided throughout the inspection visit and 
+summarised at the end of the visit to those in charge of the service on the day; 
+this will include proposed ratings for each theme. This provides an opportunity 
+for the manager and / or RI to provide any evidence they think may have been 
+overlooked.  
+ 
+19. During initial feedback we should inform the provider of any areas of good 
+practice, as well as instances where outcomes for people are not being met or 
+there are potential risks.   
+ 
+20. Where a service has not met the standards as set out in the regulations and we 
+intend to issue a priority action notice or take other enforcement action, we will 
+clearly inform the provider accordingly.  
+
+
+--- PAGE 12 ---
+ 
+ 
+Page 12 of 63 
+CIW-DR-0198 
+ 
+21. We may need to complete a fuller analysis of the information we have gathered 
+and may be waiting on more information before reaching any conclusions or 
+finalising our decision on rating each theme. If the proposed rating changes 
+after initial feedback following further consideration of evidence, the inspector 
+will inform the RI of this during the formal feedback meeting and prior to the 
+drafting of the report. We will give clear reasons for any change.   
+ 
+22. Formal feedback will be given to the Responsible Individual at a mutually 
+convenient time once all inspection activity has been completed.  
+ 
+Reporting  
+ 
+23. Inspection reports will be drafted in line with CIW practice guidance on report 
+writing. The inspector will ensure the content of the report reflects the proposed 
+rating. It should clearly communicate to the public whether we judge an 
+inspection theme to be Excellent, Good, Requires improvement, or Requires 
+significant improvement.  
+ 
+We will use evaluative words within the report to help link the narrative to the 
+rating. Some suggested evaluative words18 are set out in the following table: 
+ 
+Excellent 
+ 
+With few exceptions, excellent, outstanding, very strong, 
+exceptional, exemplary, superb, high, very high standard, very 
+high quality, extensive, highly effective, highly creative, 
+comprehensively, significantly, meticulously.  
+ 
+Good 
+ 
+Many people, successful, strong, safe, valuable, positive, 
+thorough, useful, purposeful, used well, consistent, good, 
+relevant, continuous, effective. 
+ 
+ 
+Requires  
+Improvement 
+ 
+Not always, unsatisfactory, limited, inconsistent, falls short, 
+unsuitable, unreliable, not robust, needs strengthening.  
+ 
+Requires 
+significant 
+improvement 
+ 
+Rarely, insufficient, hinders, inefficient, ineffective, unable, weak, 
+poor, not fit for purpose, restricted, at risk, inadequate, 
+significant shortfalls, lacking. 
+ 
+ 
+18 The evaluative words were taken from CIW / ESTYN Joint Inspection Report Writing Style Guide, with 
+some additions for this guidance only to reflect the ratings awarded within Adult and Children’s Services 
+inspection. 
+
+
+--- PAGE 13 ---
+ 
+ 
+Page 13 of 63 
+CIW-DR-0198 
+24. All inspection reports are peer reviewed, and dip sampled as part of CIW’s 
+internal quality assurance framework.  
+ 
+ 
+How can providers respond to an inspection report? 
+ 
+25. We strive to ensure our reports are fair and findings and judgements are based 
+on the triangulation of evidence we gather prior to, during and following the 
+inspection visit. 
+ 
+26. In the interests of fairness and transparency, we accept the right of the 
+Responsible Individuals or relevant persons to request a review of our reports 
+where they believe them to contain factual inaccuracies or to be based on 
+incomplete evidence. This gives us the opportunity to correct any errors and 
+consider additional information before an inspection report becomes publicly 
+available. This is set out in our Responding to Inspection Report reports policy19. 
+ 
+27. Under the Regulation and Inspection of Social Care Act (Wales) Act 2016, a 
+registered service provider may appeal against inspection ratings given on the 
+grounds they are based on factual inaccuracy or incomplete evidence as set out 
+in our policy.  
+ 
+Recording and displaying ratings 
+ 
+28. We will publish the ratings for each theme within our reports and online through 
+our service directory. 
+ 
+29. Service providers must display at each place it provides a service at least one 
+sign showing the most recent inspection rating for the service. Care homes for 
+children under 18 years of age and care homes for four or fewer people are 
+exempt from this requirement. We will provide a poster to each service following 
+the publication of its inspection report.  
+ 
+30. Domiciliary support services must display its rating in the office where the 
+service is provided from, unless this is inaccessible to members of the public or 
+is provided from someone’s home.  
+ 
+31. All service providers must also show on every website its most recent inspection 
+rating for each service. We will provide a widget via CIW Online account to 
+enable providers to do this.  
+  
+ 
+19 https://www.careinspectorate.wales/responding-inspection-reports-policy-html  
+
+
+--- PAGE 14 ---
+ 
+ 
+Page 14 of 63 
+CIW-DR-0198 
+32. More detail on the display of ratings can be found in our guide to displaying 
+ratings. 
+ 
+Securing Improvement 
+ 
+33. We follow our securing improvement and enforcement policy. Where we issue a 
+priority action notice the service will be scheduled for a priority inspection within 
+six months of the date the priority action notice was issued.  
+ 
+34. Following this inspection, we will consider whether outcomes for people have 
+improved. If the inspector determines outcomes continue to require significant 
+improvement or there are risks to people, the inspector will need to establish if 
+these relate to the same practice areas identified at the previous inspection or 
+demonstrate shortfalls in a new area of practice. If there has been a change in 
+outcomes for people from the previous inspection, we will reconsider the rating 
+awarded to the relevant inspection theme. 
+ 
+
+
+--- PAGE 15 ---
+ 
+Page 15 of 63 
+CIW-DR-0198 
+ 
+ 
+
+
+--- PAGE 16 ---
+ 
+Page 16 of 63 
+CIW-DR-0198 
+Section 2: Lines of enquiry and ratings descriptors 
+ 
+35. In meeting the standards as set out in the Regulations services should be Good; 
+the excellent descriptors are a progression from Good. 
+ 
+36. This framework aims to help members of the public, inspectors, providers and 
+commissioners understand what we expect to see at inspection. This informs 
+our decision-making process for awarding ratings. The ratings descriptors are 
+grouped into broad lines of enquiry addressing the relevant standards as set out 
+in the regulations under each of our four inspection themes of Well-being, Care 
+and Support, Environment, and Leadership and Management. This framework 
+must be used alongside the Securing Improvement and Enforcement Policy, the 
+Review of evidence and findings of inspection reports (including ratings), the 
+Code of Practice for Inspection of Regulated Services, and the Regulation and 
+Inspection of Social Care (Wales) Act 2016 Statutory Guidance.   
+ 
+37. The service provider’s Statement of Purpose20 is a key document. It sets 
+out the vision for the service and the provider’s aspirations for meeting the 
+needs of the people they support. The information in the statement of purpose 
+must be accurate, kept up to date and should always reflect the range of 
+people’s needs a service is able to meet, including any specialist services. We 
+will consider whether the service is being provided in line with the statement of 
+purpose at every inspection.  
+ 
+ 
+ 
+20 Guide to compiling a statement of purpose - Regulation and Inspection of Social Care (Wales) Act 
+2016 (HTML document) | Care Inspectorate Wales 
+ 
+Where we refer to people in the framework, we include children, young people, 
+and adults accessing care home and domiciliary care services. We are also 
+referring to people’s representatives where appropriate, which could include 
+family or advocates acting on their behalf. This is particularly relevant where 
+people may lack the mental capacity to make specific decisions. 
+ 
+Where we refer to staff we mean care workers, nurses, support staff and 
+managers; where we say leaders we mean responsible individuals and 
+registered managers.  
+ 
+
+
+--- PAGE 17 ---
+Lines of Enquiry 
+Page 17 of 63 
+CIW-DR-0198 
+ 
+LOEs Well-being  
+Pages 
+1 
+ 
+People live healthily and safely with control over their lives, 
+supported by positive risk management. They have access to information 
+that fosters choice and independence, and they receive support for 
+meaningful activities, communication needs, and health needs to achieve 
+their personal aspirations and outcomes. 
+ 
+20 – 25 
+2 
+ 
+People are safe and protected from abuse and neglect and are 
+informed about how to raise concerns in a way that suits their 
+communication needs. 
+ 
+26 – 27 
+3 
+ 
+People are supported to cultivate safe and healthy relationships This 
+includes engaging meaningfully with their community, feeling valued, and 
+developing to their full potential, including access to education, while 
+doing what matters to them. This includes maintaining financial well-being 
+and independence and receiving care in Welsh if they wish. 
+ 
+28 – 30 
+4 
+ 
+People live in accommodation that supports their well-being 
+outcomes. 
+ 
+31 - 32 
+LOEs Care and support 
+ 
+5 
+ 
+People receive the quality of care and support they need to achieve 
+their personal outcomes - care is designed in consultation with people, 
+considering their wishes, aspirations, risks, and specialist needs. People 
+experience continuity of care, with staff consulting relevant agencies and 
+specialists as required. Care and support is provided in the language and 
+communication method that best meets people’s needs. 
+ 
+34 – 38 
+6 
+ 
+People are protected from harm and abuse.  
+ 
+39 – 40 
+7 
+ 
+People’s medication is safely managed. 
+ 
+41 – 42 
+8 
+ 
+People’s risk of infection is minimised by the service provider 
+promoting good hygiene practices, ensuring sufficient supplies are 
+available to meet people’s needs. 
+ 
+43 – 44 
+LOEs Environment 
+Pages 
+9 
+ 
+People live in an environment with appropriate and well-maintained 
+facilities and equipment to help them achieve their well-being outcomes 
+while identifying, mitigating and reducing health and safety risks.   
+46 – 50 
+
+
+--- PAGE 18 ---
+ 
+Page 18 of 63 
+CIW-DR-0198 
+LOEs Leadership and Management 
+ 
+10 
+ 
+People are supported to achieve their outcomes because the service 
+provider has effective organisational arrangements, governance and 
+oversight to ensure smooth operations and high-quality care. This 
+includes effective quality checks and assurance processes that drive 
+continuous service improvement, foster transparency, gather and respond 
+to feedback, support staff in raising concerns and follow whistleblowing 
+processes, handle complaints effectively, and learn from them to improve 
+service delivery. The service provider ensures people, commissioners of 
+care, regulatory bodies, agencies, and professionals receive accurate and 
+accessible information about the service and its delivery.  
+  
+52 – 58 
+11 
+ 
+People are supported by staff with the necessary expertise, skills, 
+and qualifications to meet people’s care and support needs. The 
+service provider maintains an appropriate number of vetted, 
+knowledgeable, and competent staff who are effectively deployed within 
+the service. The provider ensures continuous learning and development 
+opportunities are provided for staff. 
+ 
+59 – 61 
+12 
+ 
+For domiciliary support services only – People are supported by 
+staff who have sufficient time to provide care, with a choice in their 
+contractual arrangements.  
+ 
+62 - 63 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PAGE 19 ---
+ 
+Page 19 of 63 
+LOE  
+Inspection theme: Well-being  
+ 
+What we expect to see:  
+ 
+ 
+Our approach to inspection takes account of the principles of the Social Services & Well-being (Wales) Act 2014 (“the 2014 Act”)21 
+and the legal definition of “well-being”.   
+ 
+The primary focus of inspection is the consideration of the national well-being outcomes and the extent to which people are living 
+well and achieving their well-being outcomes. The inspection ratings framework helps inspectors and providers to see how well a 
+service is supporting people to achieve their outcomes. To do this we consider people’s well-being under the eight specific aspects 
+of everyday life for a person defined within Section 2 of the 2014 Act22: 
+ 
+• Physical and mental health and emotional well-being 
+• Protection from abuse and neglect 
+• Education, training and recreation 
+• Domestic, family and personal relationships 
+• Contribution made to society 
+• Securing rights and entitlements 
+• Social and economic well-being 
+• Suitability of living accommodation  
+ 
+In relation to children, we also consider their physical, intellectual, emotional, social and behavioural development, and their 
+“welfare” as that word is interpreted for the purposes of the Children Act 1989. In relation to adults, we also consider their control 
+over day-to-day life, and their participation in work. 
+ 
+21 Social Services and Well-being (Wales) Act 2014 
+22 Social Services and Well-being (Wales) Act 2014 
+
+
+--- PAGE 20 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 20 of 63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOE 1 
+ 
+ 
+Line of enquiry 1: People live healthily and safely with control over their lives, supported by positive risk management. They have access 
+to information that fosters choice and independence, and they receive support for meaningful activities, communication needs, and health 
+needs to achieve their personal aspirations and outcomes. 
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+With few exceptions, people are 
+treated with dignity and respect. 
+They are actively supported to 
+identify their well-being outcomes 
+and encouraged to use and build 
+on their strengths.     
+Many people are treated with 
+dignity and respect. They are 
+supported to identify their well-
+being outcomes and encouraged 
+to use and build on their 
+strengths.     
+People are not always treated 
+with dignity and respect nor 
+supported to identify their well-
+being outcomes and build on their 
+strengths. 
+People are rarely treated with 
+dignity and respect. They are not 
+supported to identify their well-
+being outcomes and are not 
+encouraged to use and build upon 
+their strengths. 
+With few exceptions people are 
+supported to have as much 
+control as possible over their day-
+to-day lives and are supported 
+extensively to understand their 
+rights and entitlements as much 
+as they are able. People are 
+actively involved in decisions that 
+affect them, ensuring their voices 
+are respected and acted upon. 
+ 
+There is an outstanding and clear 
+commitment from all leaders and 
+staff to listening attentively, 
+providing comprehensive 
+information, in a format people 
+Many people have control over 
+their day-to-day lives and are 
+aware of their rights and 
+entitlements. They are involved in 
+making decisions that affect them, 
+ensuring that their voices are 
+consistently heard and respected.  
+ 
+Positive practice is shown through 
+listening attentively, providing 
+clear information, and effectively 
+supporting people to make 
+informed choices. This strong 
+approach helps many people to 
+take charge of their lives with 
+confidence and assurance. 
+People may not always find it 
+easy to share their opinions 
+including through meetings, 
+reviews, or advocacy. People 
+sometimes achieve the outcomes 
+they identify for themselves. 
+  
+People’s voices are rarely heard, 
+and / or their choices rarely 
+respected nor encouraged. 
+People rarely achieve personal 
+well-being outcomes.  
+ 
+
+
+--- PAGE 21 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 21 of 63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOE 1 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+understand, and supporting 
+people to make exceptionally 
+well-informed choices. This highly 
+effective approach empowers 
+people to take charge of their 
+lives with confidence and 
+assurance. 
+The service provider emphasises 
+independence and choice through 
+proactive risk management by all 
+staff.  
+ 
+Staff possess the necessary skills 
+and understanding to consistently 
+assist people in exercising their 
+rights, facilitating people to make 
+aspirational decisions.  
+ 
+Staff work in close partnership 
+with external stakeholders to 
+address any information, 
+advocacy, and support gaps for 
+people.  
+ 
+This responsibility is consistently 
+applied by all staff. 
+ 
+People’s right to make their own 
+choices and take informed 
+personal risks is promoted by the 
+positive culture in the service. 
+This is reflected in people’s 
+personal plans. 
+ 
+People's well-being and safety is 
+prioritised by identifying and 
+managing potential risks.  
+ 
+People are offered choices in 
+daily activities and have 
+opportunities to reach their 
+potential and engage in 
+meaningful activities, such as 
+selecting meals, participating in 
+education, engaging in hobbies, 
+joining community activities, and 
+volunteering. 
+People are not always supported 
+to maximise their independence 
+and choice as far as possible.  
+ 
+Staff are not always able to 
+describe what actions they must 
+take to support people’s 
+independence and manage risks 
+to well-being. 
+ 
+Risk assessments are not always 
+reviewed or updated when 
+changes occur in people’s needs 
+and known risks or lack sufficient 
+detail. 
+People’s independence is not 
+maximised because of risk averse 
+practices, including unnecessarily 
+restrictive practices which support 
+the running of the service, rather 
+than supporting people’s choice 
+and independence.  
+ 
+Actions staff must take to 
+minimise risk are either not clear 
+in people’s plans or are not 
+followed.  
+ 
+Opportunities for meaningful 
+activities are very limited, with 
+choices constrained by 
+assumptions staff make about 
+what is safe or feasible for 
+people.  
+ 
+
+
+--- PAGE 22 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 22 of 63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOE 1 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+Staff offer extra help in daily 
+decision-making with 
+attentiveness and empathy and 
+using people's preferred 
+communication methods. 
+People are not listened to 
+consistently and they are not 
+supported to express their views. 
+Staff do not use accessible 
+means of communication or make 
+sure that people have understood 
+them. 
+With few exceptions, people have 
+access to highly tailored 
+information which is personalised 
+to meet their communication 
+needs. People have extensive 
+support to understand the 
+information including independent 
+advocacy where required.  This is 
+achieved through various 
+methods such as brochures, 
+online portals, and direct 
+consultations, in a way that 
+supports people’s communication 
+needs. 
+ 
+People are involved in the 
+production of information for 
+themselves and their peers where 
+possible.  
+Many people have access to the 
+right information at the right time 
+and in a way that meets their 
+communication needs. This 
+means providing clear, concise, 
+and relevant information, and 
+access to advocacy where 
+needed.  
+People have access to 
+information, but this is not always 
+given at the correct time, through 
+their preferred communication 
+style, or with the support of 
+advocacy when needed. This 
+places people’s ability to manage 
+and improve their well-being at 
+risk. It means that information 
+they receive falls short of meeting 
+their needs.   
+ 
+People rarely have access to the 
+right information at the right time 
+and in the manner they prefer. 
+This hinders their ability to 
+manage and improve their well-
+being. Information is often 
+unclear, lengthy, and irrelevant, 
+provided through limited channels 
+such as outdated brochures, 
+inaccessible online portals, and 
+infrequent consultations, failing to 
+support people’s communication 
+needs. They do not have access 
+to advocacy services to support 
+them. 
+ 
+
+
+--- PAGE 23 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 23 of 63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOE 1 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+The service provider promotes 
+the use of creative practices and 
+tools, supported by latest 
+research and best practice 
+guidance, to meet people's 
+communication needs.   
+ 
+This is achieved using people’s 
+preferred languages and 
+communication methods, 
+including for example, specialist 
+methods like PECS, TEACCH, 
+Makaton, or BSL. 
+ 
+With few exceptions, people 
+experience excellent well-being 
+because the promotion of Welsh 
+language and culture is fully 
+integrated into the culture of the 
+service.  
+Communication needs are 
+suitably met to ensure people and 
+staff can understand each other. 
+This also includes ensuring 
+people's language preferences 
+are met.  
+ 
+Many people experience 
+enhanced well-being because 
+their Welsh language and cultural 
+needs are understood and 
+catered for.  
+ 
+The service provider anticipates, 
+identifies, and meets the Welsh 
+language and cultural needs of 
+people who use, or may use the 
+service, or is actively working 
+towards doing so. 
+People with diverse 
+communication needs often face 
+challenges because staff may 
+struggle to understand and 
+support them or may lack the 
+necessary resources and training 
+to respond effectively. 
+ 
+The provider does not always 
+consider people’s language and 
+cultural preferences. Their efforts 
+to promote Welsh language and 
+culture are inconsistent and 
+require strengthening.  
+ 
+Staff do not have the skills 
+needed to meet people's 
+communication needs.  
+There is inadequate consideration 
+and effort made to meet people's 
+communication and language 
+preferences.  
+ 
+There is limited understanding 
+among leaders about their 
+responsibilities for promoting 
+Welsh language and culture. The 
+promotion of the Welsh language 
+and culture is currently not given 
+significant emphasis.  
+ 
+People are extensively supported 
+to live well and achieve self-
+directed outcomes. People 
+maintain and improve upon their 
+physical, mental, and emotional 
+health because of the exemplary 
+support they receive from staff. 
+People are supported to maintain 
+their physical and mental health, 
+and emotional well-being.  
+People are well supported to 
+engage in and participate in 
+various activities that foster 
+happiness and health.  
+People do not always have the 
+support they need to maintain 
+their physical, mental, and 
+emotional health. 
+ 
+People have inadequate support 
+to maintain their physical, mental, 
+and emotional health. 
+People rarely receive information 
+about their health and treatment 
+options and are not involved in 
+
+
+--- PAGE 24 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 24 of 63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOE 1 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+ 
+People are empowered to make 
+choices about their health and 
+how it should be monitored and 
+managed.  
+ 
+Where they are able, people plan, 
+co-produce, and take the lead in 
+diverse activities of their choice, 
+with superb support from staff. 
+These well-designed programs of 
+activities support and encourage 
+engagement, significantly 
+enhancing people's sense of well-
+being. 
+ 
+People have enriching 
+experiences delivered in new or 
+creative ways. This may include 
+community events that foster 
+social connections, workshops to 
+enhance personal skills and 
+hobbies. By creating opportunities 
+for learning, social interaction, 
+and personal growth, service 
+providers ensure that each 
+ 
+Planned activities and impromptu 
+interactions with staff and others, 
+help ensure individuals maintain a 
+positive sense of personal well-
+being. 
+ 
+People have positive 
+experiences, improving their 
+quality of life and helping them 
+achieve their well-being 
+outcomes. 
+People do not always have choice 
+and control over their health 
+needs, where this is possible.  
+ 
+People do not always spend their 
+time interacting with others or 
+doing activities of their choice. 
+ 
+There are limited activities both 
+formal and informal where people 
+can engage with others, and 
+express themselves, to support a 
+sense of well-being. 
+ 
+Some people have positive 
+experiences, however when 
+people have negative 
+experiences, this is not always 
+acknowledged nor addressed by 
+the provider. 
+decisions about their own health 
+care. 
+ 
+People rarely engage with others, 
+or through activities. The culture 
+of the service does not facilitate 
+or encourage engagement for 
+people. Staff do not make efforts 
+to plan activities or events which 
+contribute to people’s well-being.  
+ 
+People lack enriching 
+experiences. Community events 
+that foster social connections, 
+workshops to enhance personal 
+skills, and hobbies are missing. 
+Opportunities for learning, social 
+interaction, and personal growth 
+are not provided, depriving 
+individuals of a fulfilling and 
+rewarding life. 
+ 
+
+
+--- PAGE 25 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 25 of 63 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOE 1 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+person can enjoy a fulfilling and 
+rewarding life. 
+People are part of a strong and 
+sustained culture of openness 
+without judgement. People’s 
+emotional and psychological well-
+being is actively supported and 
+enhanced.   
+ 
+People's emotional and 
+psychological well-being is 
+supported, including how they 
+manage stress, day to day. The 
+service provider fosters a culture 
+of openness without judgement. 
+People’s stress triggers are 
+known and recorded but 
+strategies to support people when 
+stressed are insufficient, or not 
+always followed or understood by 
+staff resulting in risks to people’s 
+well-being. 
+People’s known stress triggers 
+are not recognised nor 
+addressed, leading to poor well-
+being outcomes.  
+ 
+The service does not have a 
+sustained culture of openness 
+when supporting people’s 
+emotional and psychological well-
+being, and at times can be 
+judgemental. 
+For children’s services only: 
+Exemplary care integrates all 
+dimensions of children’s physical, 
+intellectual, emotional, social, and 
+behavioural development. This 
+comprehensive approach ensures 
+they flourish in a nurturing 
+environment tailored to their 
+unique needs.  
+For children’s services only: 
+Children are learning to interact 
+with others, including making 
+friends, sharing, and cooperating. 
+It's about building relationships 
+and understanding social norms.  
+ 
+Where children are not in 
+education support and advice is 
+offered. A positive approach to 
+education is promoted in the 
+home, to ensure children meet 
+their educational achievements. 
+For children’s services only: 
+Children receive inconsistent 
+support and information to help 
+them build relationships and 
+understanding of social norms. 
+For children’s services only: 
+Children are not supported to 
+build relationships and 
+understanding social norms. 
+ 
+This could result in children not 
+meeting their full potential and 
+experiencing poor outcomes.  
+
+
+--- PAGE 26 ---
+ 
+ 
+Page 26 of 63 
+LOE 2 
+ 
+ 
+Line of enquiry 2: People are safe and protected from abuse and neglect and are informed about how to raise concerns in a way that suits 
+their communication needs. 
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+Flexible and highly creative new 
+approaches are developed with 
+people to prevent abuse and 
+detect problems early, especially 
+for those who lack a voice. These 
+highly effective safeguarding 
+methods involve a collaborative 
+effort between people and 
+external agencies.  
+ 
+A very strong support system 
+ensures any risks are promptly 
+identified and addressed.  
+ 
+People are encouraged to 
+express their concerns and 
+preferences, reinforcing a positive 
+culture where their involvement is 
+highly valued, and their rights and 
+dignity are consistently upheld. 
+People are safeguarded from 
+abuse and neglect. People are 
+provided with a secure 
+environment where they feel safe 
+at all times. There are effective 
+mechanisms in place to ensure 
+every voice is heard and 
+respected. There are strong 
+support systems to ensure any 
+risks are promptly identified and 
+addressed.   
+People are not always 
+safeguarded from abuse and 
+neglect, within a secure 
+environment where they feel safe.  
+Risks are not always identified 
+nor addressed promptly because 
+support systems require 
+strengthening to ensure the safety 
+of people. 
+People are frequently exposed to 
+abuse and neglect, and they often 
+find themselves in an insecure 
+environment where safety is a 
+constant concern. There are 
+inadequate mechanisms to 
+ensure voices are heard and 
+respected. Risks are often 
+overlooked, misunderstood, and 
+not always addressed. 
+ 
+The culture can appear 
+disingenuous, with efforts to 
+maintain standards of safety, 
+rights, and dignity seeming more 
+like a checkbox exercise rather 
+than a genuine commitment. 
+
+
+--- PAGE 27 ---
+ 
+ 
+Page 27 of 63 
+LOE 2 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+People are comprehensively 
+informed about their rights. They 
+have highly effective support and 
+encouragement to voice their 
+concerns effectively. Highly 
+creative resources are made 
+readily available to help people 
+understand how to communicate 
+their needs and worries. People 
+have a very strong sense of 
+empowerment and self-advocacy 
+because they have excellent 
+support to access advocacy 
+services. 
+People are informed about their 
+rights and supported in voicing 
+their concerns effectively. 
+Resources and advocacy 
+services are used well to help 
+them communicate their needs 
+and worries in suitable ways, 
+fostering empowerment and self-
+advocacy. 
+People are not always informed 
+about their rights. They receive 
+inconsistent support in voicing 
+their concerns, with limited 
+access to advocacy services 
+when needed.  
+People are rarely informed about 
+their rights and are often 
+unsupported in voicing their 
+concerns effectively. People are 
+not supported to access advocacy 
+services when needed.  
+ 
+
+
+--- PAGE 28 ---
+ 
+Page 28 of 63 
+LOE 3 
+ 
+ 
+Line of enquiry 3: People are supported to cultivate safe and healthy relationships This includes engaging meaningfully with their 
+community, feeling valued, and developing to their full potential while doing what matters to them. This includes maintaining financial well-being 
+and independence and receiving care in Welsh if they wish. 
+  
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+With few exceptions, people’s 
+well-being and sense of worth is 
+greatly enhanced by all leaders 
+and staff, who are knowledgeable 
+and celebrate and champion 
+diversity. 
+ 
+People receive extensive 
+structured and stimulating support 
+to enable a sense of purpose and 
+direction. 
+ 
+People are empowered to thrive, 
+with numerous opportunities to 
+maintain, develop, and explore 
+their interests, strengths, and 
+skills. These opportunities 
+encompass education, learning, 
+employment, and leisure. 
+Many people are encouraged to 
+embrace their identities and 
+unique characteristics, knowing 
+they are valued and respected.  
+People’s interests, culture, past 
+life experiences, including 
+sexuality, gender identity, 
+spirituality, and important 
+relationships, are recognised by 
+leaders and staff, acknowledging 
+the importance of these aspects 
+for each individual. 
+People are not always 
+encouraged to be proud of who 
+they are. Support may be limited 
+and leave people feeling lost and 
+without direction. Their interests, 
+culture, past experiences, and 
+important relationships are not 
+fully embraced by leaders and 
+staff, making people feel like 
+these parts of their lives don’t 
+matter. 
+People's experiences are poor 
+due to stigma or feeling judged 
+and undervalued because of their 
+circumstances or protected 
+characteristics. 
+ 
+There is inadequate recognition of 
+people’s interests, culture or past 
+life, including sexuality, gender 
+identity, spirituality or important 
+relationships, with poor 
+acknowledgement of the 
+importance of this for each 
+person. 
+
+
+--- PAGE 29 ---
+ 
+Page 29 of 63 
+LOE 3 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+There are frequent opportunities 
+for people to connect with family, 
+friends and contribute to local 
+communities, in creative and 
+imaginative ways, including 
+technology and online 
+participation.   
+ 
+People are exceptionally well 
+supported to make friends. 
+People are actively encouraged to 
+share their hobbies, spend time 
+together, and help each other.  
+ 
+All staff have excellent 
+understanding of safety, weighing 
+risks and rewards to promote 
+overall well-being and 
+involvement in the community. 
+People are supported to maintain 
+and sustain existing relationships 
+with family, friends and important 
+people in their lives as far as 
+possible. This is facilitated by staff 
+who respect these relationships 
+and the importance they hold in 
+people’s lives. Staff have the 
+necessary skills and access to 
+technology to support this.  
+ 
+People are encouraged to take 
+positive risks, weighing benefits 
+and drawbacks, to boost 
+confidence and foster community 
+involvement. 
+ 
+People are supported to develop 
+and sustain positive relationships 
+within their community and with 
+the people they live with. 
+People are not always supported 
+to maintain relationships with 
+family, friends, and important 
+people in their lives. Staff may not 
+always respect these 
+relationships or understand why 
+they matter so much to people. 
+ 
+People are supported by staff 
+who do not always have the time 
+needed to assist or guide people 
+in using technology to connect 
+with family or friends and those 
+important to them. 
+ 
+Staff show an inconsistent 
+attitude to supporting people to 
+become involved in positive 
+relationships within their 
+community and with the people 
+they live with. 
+People are not supported to stay 
+connected to those important to 
+them. 
+ 
+Staff do not attempt to look for 
+other ways of helping people stay 
+connected where they do not 
+have visitors. 
+ 
+Staff do not have time to support / 
+teach people to use technology to 
+engage with family or friends. 
+ 
+There is an overly cautious or 
+risk-averse approach to visiting 
+and wider community 
+engagement.  
+ 
+People's confidence is poor 
+because they have limited 
+opportunities to be socially active 
+or do not receive the necessary 
+support to develop positive 
+relationships within their 
+community and with people they 
+live with. 
+
+
+--- PAGE 30 ---
+ 
+Page 30 of 63 
+LOE 3 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+With few exceptions, people’s 
+right to control their finances and 
+personal property is respected 
+and actively promoted, 
+maximising choice, control and 
+independence. Where people 
+are unable to manage their 
+finances, the decisions made 
+enhance their quality of life and 
+support arrangements are clear, 
+safe, and accountable. 
+ 
+People are consistently supported 
+to manage their finances 
+effectively. Staff know and 
+effectively follow the provider’s 
+procedures for supporting people 
+to budget and / or make spending 
+decisions. Staff are not involved 
+with people’s financial affairs 
+unless necessary as part of 
+agreed care plans.  
+ 
+Where appropriate, people are 
+encouraged and supported to 
+handle their own financial affairs. 
+These measures help people 
+maintain control over their 
+finances and ensure transparency 
+and accountability. 
+People are not always supported 
+to manage their money. Issues 
+with finances are not dealt with 
+consistently.  
+ 
+Staff are not always sure of what 
+procedures to follow and what 
+support to offer if issues arise. 
+People are not effectively 
+supported to manage their 
+money. People are often 
+discouraged from handling their 
+own financial affairs, with little 
+support for budgeting and 
+spending decisions. 
+ 
+There is a lack of protections in 
+place to prevent staff becoming 
+involved in people’s financial 
+affairs unnecessarily, leading to a 
+lack of control and transparency, 
+or mismanagement of people’s 
+finances. 
+ 
+
+
+--- PAGE 31 ---
+ 
+Page 31 of 63 
+LOE 4 
+ 
+ 
+Line of enquiry 4: People live in accommodation that supports them to achieve their desired well-being outcomes. 
+(for accommodation based services only) 
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+The provider always prioritises 
+people's well-being, ensuring that 
+their accommodation not only 
+meets their needs but also 
+significantly enhances their 
+quality of life.  
+People always achieve 
+outstanding outcomes because 
+they reside in highly personalised 
+accommodation that they feel a 
+strong sense of ownership for and 
+that truly feels like home to them. 
+People are equipped with a 
+comprehensive range of 
+technology and equipment, 
+empowering them to achieve their 
+well-being outcomes effectively. 
+People are engaged in highly 
+effective ways in conversations 
+about their environment making 
+sure it matches their preferences,  
+People live in accommodation 
+which meets their needs. The 
+provider prioritises people’s well-
+being when evaluating whether 
+the accommodation meets their 
+needs.  
+ 
+People have access to the 
+equipment and technology they 
+need to achieve their well-being 
+outcomes. 
+ 
+People's views and needs are 
+considered when designing, 
+building, maintaining, renovating, 
+or adapting premises.  
+ 
+People’s well-being is not always 
+prioritised by the provider when 
+evaluating whether the 
+accommodation can meet their 
+needs.  
+ 
+People's well-being outcomes are 
+sometimes unmet due to 
+accommodation that is 
+unsatisfactory and limits the 
+positive experiences and well-
+being outcomes of people. 
+ 
+People are not always supported 
+to achieve their well-being 
+outcomes because of limited 
+access to the equipment and 
+technology they need. 
+ 
+People who can easily share their 
+thoughts on the decoration and 
+layout of the service are not 
+always heard. The views of 
+people who cannot verbally  
+People’s well-being is not 
+prioritised by the provider when 
+evaluating whether the 
+accommodation can meet their 
+needs. 
+ 
+People’s outcomes are rarely met 
+because they live in 
+accommodation that is not 
+homely and not fit for purpose.  
+ 
+This hinders positive experiences 
+and outcomes for people because 
+premises are not adapted to 
+promote or enhance quality of life 
+or well-being.  
+ 
+People rarely have access to the 
+equipment and technology they 
+need to achieve their well-being 
+outcomes.  
+ 
+People are not consulted nor their 
+cultural and support needs.  
+ 
+
+
+--- PAGE 32 ---
+ 
+Page 32 of 63 
+LOE 4 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+culture, and needs and positively 
+impact their wellbeing. 
+ 
+communicate their preferences 
+are not considered routinely. 
+ 
+Environmental changes are often 
+made without consultation, 
+overlooking personal preferences, 
+cultural and support needs. 
+considered when changes to the 
+environment are made.  
+ 
+Facilities in the service frequently 
+do not meet people's 
+requirements nor promote 
+independence 
+ 
+
+
+--- PAGE 33 ---
+ 
+Page 33 of 63 
+LOE 4 
+ 
+Inspection theme: Care and Support 
+ 
+ 
+ 
+What we expect to see:  
+ 
+People are always treated with kindness, empathy and compassion. People understand they matter and their experience of how 
+they are treated and supported matters. Their privacy and dignity are respected. Every effort is made to take people’s wishes into 
+account and respect their choices. This includes supporting people to be as independent as possible.  
+ 
+People are treated as individuals and their care and support meets their needs and preferences. People’s strengths, abilities, 
+aspirations, culture and unique backgrounds and protected characteristics are taken account of. 
+ 
+When inspecting this theme inspectors consider how arrangements for, and the delivery of, care and support contributes to 
+people’s well-being. 
+ 
+ 
+
+
+--- PAGE 34 ---
+ 
+Page 34 of 63 
+LOE 5 
+ 
+ 
+Line of Enquiry 5: People receive the quality care and support they need to achieve their personal outcomes - care is designed in 
+consultation with people, considering their wishes, aspirations, risks, and specialist needs. People experience continuity of care, with staff 
+consulting relevant agencies and specialists as required. Care and support are provided in the language and communication method that best 
+meets people’s needs. 
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+With very few exceptions, people 
+experience very high quality care 
+and support because the provider 
+conducts highly effective 
+assessments of whether they can 
+meet the person’s needs 
+alongside those of people already 
+accessing the service, before 
+offering a service.  
+ 
+The provider gathers highly 
+detailed information from other 
+professionals and organisations 
+already involved in people’s care, 
+to inform their decision on 
+whether they can provide a 
+service. They place exceptionally 
+high value on their initial 
+conversations with people to build 
+very strong relationships with 
+them.  
+Most people receive consistently 
+good quality care because the 
+provider thoroughly assesses 
+their needs and personal 
+outcomes, as well as the impact 
+on people currently accessing the 
+service, before agreeing to 
+provide the service. 
+ 
+For people with complex needs, 
+assessors have specific training 
+or seek advice from specialists. 
+For people with nursing needs, 
+assessments are done by a 
+registered nurse with the relevant 
+skills. 
+ 
+The provider gathers useful 
+information from professionals 
+and others already involved in 
+people’s care and support. They 
+talk to people themselves about 
+their needs and preferences 
+where possible. The information 
+People experience issues with the 
+quality of care they receive from 
+the service provider because 
+assessments of their needs at 
+commencement of service are 
+inconsistent or limited information 
+about people is obtained. 
+ 
+People's care assessments do 
+not always consider all of their 
+diverse needs. The provider does 
+not always ensure assessments 
+are completed by staff who are 
+suitably trained, authorised or 
+competent to do so.  
+ 
+Assessments from external health 
+or allied professionals are not 
+always incorporated into care 
+planning processes, resulting in 
+gaps in identified needs.  
+ 
+ 
+People often experience 
+inadequate quality of care 
+because the service provider 
+ineffectively assesses their needs 
+prior to agreeing to provide a 
+service.   
+ 
+The provider fails to gather 
+adequately detailed information 
+about people’s care and support 
+needs and potential risks to their 
+well-being outcomes, and / or 
+consider the potential impact for 
+people already using the service.  
+ 
+People with complex needs are at 
+risk because the service provider 
+may not have ensured assessors 
+have the specific training they 
+need or seek advice from 
+specialists. 
+ 
+
+
+--- PAGE 35 ---
+ 
+Page 35 of 63 
+LOE 5 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+gathered fully informs the 
+decision about whether they can 
+provide a service to people. 
+  
+People receive exceptional care 
+and support due to their 
+significant involvement in the 
+planning process. Staff use 
+strategies tailored to each 
+individual to involve and 
+meaningfully engage with people, 
+their families, friends, and other 
+professionals in the planning 
+process. 
+ 
+People are treated equitably and 
+with dignity and respect during 
+reviews, and their preferences 
+and individual needs are very 
+clearly evident throughout their 
+highly personalised plans.  
+ 
+The provider consistently excels 
+at empowering people to identify 
+and achieve sustainable new 
+health and well-being outcomes 
+that may not have previously 
+been considered.  
+   
+For people with complex or 
+continuing health needs, staff 
+For people who wish to be 
+involved, the plan for their care 
+and support is co-produced 
+between them, their 
+representatives, relevant 
+professionals, and the service 
+provider.  
+ 
+People’s personal plans are 
+strengths based and outline how 
+staff should support people to 
+achieve their well-being 
+outcomes. People’s plans 
+consistently include their 
+preferences, routines, and beliefs.  
+ 
+Where they want to contribute, 
+people are encouraged to 
+contribute to the regular review of 
+their personal plans, along with 
+relevant representatives and 
+plans are updated as changes in 
+their needs or preferences occur.  
+ 
+People’s interests, culture, past 
+life, protected characteristics, and 
+People are not always involved in 
+planning how their care and 
+support needs will be met. This 
+means staff do not have a full 
+understanding of people's needs.  
+ 
+People’s personal plans contain 
+limited, inconsistent or unreliable 
+information. They are not always 
+based on what people can do for 
+themselves. This means staff may 
+not always be aware of people’s 
+current needs. 
+ 
+Where people are involved in 
+reviews of their planned care and 
+support, this is not always done in 
+a positive way that respects their 
+voice and / or treats it equitably 
+with those of others involved in 
+their care and support.  
+ 
+People’s interests, culture, past 
+life, protected characteristics, and 
+important relationships are not 
+always reflected in plans. 
+People often feel excluded from 
+planning their care and support.  
+ 
+People’s personal plans are rarely 
+completed in collaboration with 
+them and / or relevant 
+professionals. Plans lack 
+adequate detail to properly inform 
+staff about people's care and 
+support needs.  
+ 
+People's personal plans are 
+incomplete or lack the detail 
+required to ensure staff know 
+what care and support they need.  
+ 
+People's personal plans are not 
+reviewed regularly, and nor are 
+they involved. Updates to 
+people’s plans are not made in a 
+timely way even when there are 
+changes in their needs or 
+preferences.  
+ 
+People’s views about their care 
+and support needs are not 
+
+
+--- PAGE 36 ---
+ 
+Page 36 of 63 
+LOE 5 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+always seek to improve care, 
+treatment, and support by 
+identifying and applying the latest 
+in evidence-based practice.  
+ 
+ 
+important relationships are 
+reflected in plans. 
+ 
+For children who are looked 
+after, the service provider’s 
+review of personal plans aligns 
+with care review schedules of the 
+placing authority. 
+ 
+ 
+ 
+For children who are looked 
+after, the service provider’s 
+review of personal plans does not 
+always align with care review 
+schedules of the placing authority. 
+ 
+listened to, and their preferences 
+are not valued by staff.  
+People’s interests, culture, past 
+life, protected characteristics, and 
+important relationships are often 
+overlooked in plans, with minimal 
+recognition of how vital these 
+elements are to each individual.  
+ 
+For children who are looked 
+after, the service provider’s 
+review of personal plans does not 
+align with the care review 
+schedules of the placing authority. 
+ 
+With very few exceptions, people 
+consistently achieve personal 
+aspirations and highly positive 
+outcomes because the provider 
+uses evidence based research, 
+legislation and / or relevant policy 
+including learning from reviews, to 
+inform practice.  
+ 
+People are supported by highly 
+skilled staff with an excellent 
+understanding of their individual 
+needs and preferences, including 
+their protected equality 
+Many people experience care and 
+support that is dignified and 
+respectful, and they have 
+meaningful interactions with staff, 
+friends, family, and other people.  
+ 
+Most practice is grounded in 
+current evidence-based research, 
+legislation and / or relevant policy 
+including learning from reviews.  
+ 
+Where people exhibit behaviours 
+that may challenge other people, 
+they are supported positively, buy 
+People’s care and support needs 
+are not always met.  
+ 
+Staff are inconsistent in how they 
+follow personal plans. Records do 
+not always reflect timely care has 
+been provided. 
+  
+People who have complex needs 
+or exhibit behaviours that may 
+challenge others have 
+insufficiently detailed plans to 
+ensure staff know how best to 
+support them and prevent harm to 
+People experience significant 
+shortfalls in the quality of care, 
+including a lack of dignified or 
+respectful care.  
+ 
+Staff rarely recognise when 
+people need or want support. 
+They appear rushed and task-
+oriented in their work, leading to 
+few meaningful interactions.  
+ 
+Delays in people’s care are 
+frequent, and their cultural and 
+religious needs are often unmet.  
+
+
+--- PAGE 37 ---
+ 
+Page 37 of 63 
+LOE 5 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+characteristics, values and 
+beliefs, which may influence how 
+they want to receive care, 
+treatment, and support.   
+  
+skilled staff who safeguard the 
+dignity and rights of everyone 
+involved.  
+ 
+Staff regularly review behaviour 
+support approaches in 
+collaboration with people and 
+relevant professionals. 
+ 
+Care is delivered in a way which 
+promotes the development of 
+routine and structures for people 
+in line with their needs and 
+preferences.  
+their well-being or the well-being 
+of other people.  
+ 
+Care is not always delivered in a 
+way that promotes routines and 
+structure for people in line with 
+their needs and preferences. 
+Where people exhibit behaviours 
+that may challenge others, 
+potential for harm to other people 
+may be ignored or not identified.  
+ 
+Care is not delivered in a way that 
+promotes the development of 
+routines and structure in line with 
+people’s needs and preferences, 
+or the importance of this is not 
+recognised. 
+The service provider uses very 
+strong, established links with local 
+mental health, health, and social 
+care services resulting in people 
+experiencing excellent outcomes.  
+ 
+Health promotion is actively 
+encouraged and highly 
+personalised.  
+ 
+Health passports are highly 
+personalised, with staff acting as 
+People are referred for 
+appropriate care and treatment at 
+the right time and 
+recommendations for care and 
+treatment by other professionals 
+are carried out as directed. 
+ 
+The provider ensures people 
+have access to a nutritious and 
+balanced diet. Specialist dietary 
+needs and those relating to 
+culture, ethics and religion are 
+routinely catered for.  
+Referrals to health care and allied 
+professionals at the right time  
+and / or in a way that ensures 
+people’s health and well-being is 
+maintained or improved are 
+inconsistent.  
+ 
+Recommendations for care and 
+treatment by other professionals 
+are not always carried out as 
+directed. 
+ 
+People are not involved in 
+decisions about what they eat and 
+drink. Specialist dietary needs 
+and those relating to culture, 
+ethics and religion are often not 
+catered for. There is a lack of 
+access to a balanced and 
+nutritious diet for people. 
+ 
+Referrals for appropriate care and 
+treatment at the right time are not 
+made, and recommendations for 
+care and treatment by other 
+
+
+--- PAGE 38 ---
+ 
+Page 38 of 63 
+LOE 5 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+advocates for people when 
+necessary.  
+ 
+  
+People are assisted and 
+supported to attend and 
+participate in health checks and 
+activities related to health 
+promotion, where appropriate. 
+Staff are aware of their role in 
+health promotion. 
+ 
+People are supported to access 
+amenities that promote health and 
+well-being or assist them in 
+achieving outcomes, such as 
+leisure centres, fitness classes, or 
+other therapeutic activities. 
+ 
+Health passports and transition 
+plans are developed, maintained 
+and used consistently for people 
+who require them. Children and 
+young people have routines 
+promoting health and activity. 
+Specialist dietary needs and 
+those relating to culture, ethics 
+and religion are not always 
+catered for.  
+ 
+professionals are not carried out 
+as directed. 
+ 
+People's personal plans are not 
+updated in a timely way with their 
+latest needs when they change 
+following review by external 
+professionals. 
+
+
+--- PAGE 39 ---
+ 
+Page 39 of 63 
+LOE 6 
+ 
+ 
+Line of enquiry 6: People are protected from harm and abuse. 
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+People are kept safe by an 
+exceptionally strong approach to 
+safeguarding. There is a proactive 
+and positive culture of safety in 
+the service, based on openness 
+and honesty.  
+ 
+All staff understand and follow the 
+Wales Safeguarding Procedures.  
+ 
+The service provider continually 
+seeks ways to improve safety 
+through a culture of reflective 
+practice and implements 
+sustainable positive changes. 
+This includes learning from 
+internal and external reviews. 
+ 
+Where improvements are 
+required, these are openly shared 
+and understood by all staff, who 
+share responsibility for 
+embedding improvements. 
+People are kept safe from harm 
+and abuse, ensuring all legal 
+requirements are met. 
+ 
+Concerns about safety are 
+listened to, safety events are 
+reported and investigated 
+thoroughly, and lessons are 
+learned to continually identify 
+good practices. 
+ 
+People feel secure, knowing that 
+staff and volunteers understand 
+and act in accordance with their 
+safeguarding responsibilities.   
+ 
+Improvements are made to the 
+service in response to issues 
+identified through safeguarding 
+incidents. 
+ 
+Where allegations of abuse, 
+neglect, or improper treatment are 
+made, the service provider takes 
+immediate action to ensure the 
+safety of those receiving care and 
+support, and makes appropriate 
+People’s safety is not always 
+recognised nor prioritised by staff, 
+leaving people vulnerable to 
+bullying, harassment, harm, 
+abuse, neglect, and 
+discrimination. 
+ 
+Staff are not always able to 
+demonstrate their understanding 
+of safeguarding practice.  
+ 
+Where allegations of abuse, 
+neglect or improper treatment are 
+made, the service provider does 
+not always take appropriate 
+action to ensure the safety of 
+people receiving care and 
+support.  
+ 
+People receiving a service have 
+faced or are at significant and 
+immediate risk of harm or abuse 
+including for example bullying, 
+harassment, physical neglect and 
+abuse, and discrimination.  
+ 
+People and / or staff are not 
+supported to raise safeguarding 
+concerns and may feel actively 
+discouraged or even fearful about 
+doing so.  
+ 
+Staff are not able to describe their 
+responsibilities relating to keeping 
+people safe. They do not know 
+how to report concerns and or 
+where to find policies, procedures 
+or guidance. 
+ 
+Staff may engage in or tolerate 
+poor practices without considering 
+their impact on people’s 
+emotional and physical safety, 
+well-being and dignity.  
+ 
+
+
+--- PAGE 40 ---
+ 
+Page 40 of 63 
+LOE 6 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+referrals to relevant agencies, 
+such as local authorities.  
+ 
+Risks to people may be 
+overlooked or ignored resulting in 
+significant risk of harm to people.  
+ 
+The service provider does not 
+make appropriate referrals to 
+relevant agencies, such as local 
+authorities, and may only do so 
+when prompted by external 
+professionals. 
+People’s rights to liberty are 
+protected and safeguarded.  
+ 
+People are supported by staff with 
+extensive knowledge, skills and 
+understanding of how to minimise 
+restrictive practices to ensure 
+everyone feels safe while 
+enjoying maximum freedoms, 
+regardless of their needs. 
+People’s liberty is protected in line 
+with legislation. 
+ 
+People are supported by skilled 
+and competent staff to achieve 
+their personal outcomes through 
+the least restrictive ways possible.  
+Some people’s liberty is not 
+protected in line with their best 
+interests and legislation, and least 
+restrictive practices are 
+inconsistently applied by staff with 
+limited knowledge and skills. 
+  
+Many people do not have their 
+liberty protected in line with 
+legislation.  
+ 
+People’s consent to care and 
+treatment and best interest’s 
+decisions are not being obtained 
+in line with legislation. Staff do not 
+understand these requirements.  
+ 
+Where restraint is used, it is not 
+recognised, and no attempts are 
+made to find less restrictive 
+options to provide necessary care 
+and treatment. 
+ 
+
+
+--- PAGE 41 ---
+ 
+Page 41 of 63 
+LOE 7 
+ 
+ 
+Line of enquiry 7: People’s medication is safely managed. 
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+Staff work closely with people to 
+involve them in understanding 
+and administering their medicines 
+where appropriate. They seek 
+new ways to promote 
+independence and collaborate 
+with other agencies and 
+advocates.  
+ 
+The service excels in supporting 
+people to manage their 
+prescribed or over-the-counter 
+medicines, continually assessing 
+this in partnership with people 
+and professionals.  
+ 
+People who may lack the capacity 
+to make decisions about their 
+medication are exceptionally well 
+supported to ensure their best 
+interests are thoroughly 
+considered, and best-interest 
+procedures are followed in line 
+with legislation.  
+ 
+People receive their medication 
+as prescribed in accordance with 
+national guidelines and the 
+service provider’s medication 
+policy. 
+ 
+Medication is consistently stored 
+as required to ensure its efficacy 
+and safety. 
+ 
+People receive medication in a 
+person-centred way considering 
+choice, individuality and 
+independence.   
+ 
+Regular reviews of medications 
+are completed in a timely manner, 
+involving people where 
+appropriate and the relevant 
+professionals.  
+ 
+Audits are completed to ensure 
+consistency of practice and good 
+standards are maintained.  
+ 
+People may not always receive 
+medication as prescribed, or in 
+accordance with national and 
+local guidelines and the service 
+provider’s medication policy.  
+ 
+Regular reviews of prescribed 
+medications are not consistently 
+completed and / or outcomes are 
+not fully communicated to all 
+relevant staff to ensure people 
+receive the medication they need. 
+ 
+The service does not always 
+adhere to proper procedures 
+when people lack capacity to 
+make decisions about their 
+medication. This includes 
+instances where medication may 
+need to be administered without 
+their knowledge or consent. 
+People are at risk because staff 
+do not administer medicines 
+safely, or people do not receive 
+them as prescribed.  
+ 
+Medication is not managed 
+appropriately to ensure its 
+efficacy or safety.  
+ 
+Regular reviews of prescribed 
+medications are not completed in 
+a timely manner. 
+ 
+The service fails to follow relevant 
+national guidelines for non-
+prescribed medicines/homely 
+remedies. 
+ 
+The service does not adhere to 
+correct procedures when 
+individuals lack the capacity to 
+make decisions about medication. 
+  
+
+
+--- PAGE 42 ---
+ 
+Page 42 of 63 
+LOE 7 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+Openness and transparency are 
+evident with learning around 
+incidents or near misses. 
+ 
+ 
+ 
+
+
+--- PAGE 43 ---
+ 
+Page 43 of 63 
+LOE 8 
+ 
+Line of enquiry 8: People’s risk of infection is minimised by the service provider promoting good hygiene practices, ensuring 
+sufficient supplies are available to meet people’s needs.  
+ 
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+People are protected by high 
+standards of hygiene practices 
+which comply with laws and 
+guidelines related to food 
+handling, hand washing, and 
+cleaning, along with emergency 
+contingency plans.  
+ 
+Highly effective oversight and 
+review systems for service 
+supplies are in place. 
+ 
+In food preparation, staff 
+encourage people’s 
+independence and autonomy 
+where appropriate by involving 
+people in good food hygiene 
+practices using creative means. 
+  
+People are protected as much as 
+possible from the risk of infection 
+because premises and equipment 
+are kept clean and hygienic, and 
+food hygiene practices are good.  
+ 
+There is an effective approach to 
+assessing, managing and 
+preventing the risk of infection, 
+with clear roles and 
+responsibilities in line with current 
+national guidance.  
+ 
+Information about the risk of 
+infection is shared appropriately, 
+including with people using the 
+service, visitors and external 
+agencies. 
+ 
+Staff and volunteers are trained, 
+understand, and implement safe 
+practices to prevent infection. 
+ 
+Oversight and review systems for 
+service supplies are in place, 
+People are not always protected 
+because the service does not 
+consistently meet national 
+infection control and hygiene 
+guidelines and standards.  
+ 
+Not all staff have received 
+adequate training and / or may 
+not fully understand their hygiene 
+responsibilities, leading to 
+inconsistent infection control 
+practices.  
+ 
+Staff lack confidence or 
+inconsistently apply infection 
+control and hygiene practice.   
+People are at risk from 
+inadequate infection prevention 
+and control and / or food hygiene 
+practice. 
+ 
+Concerns about people's infection 
+or hygiene risks are not referred 
+to the appropriate agencies nor is 
+advice sought. 
+ 
+Staff do not know or follow the 
+provider’s policies and 
+procedures on infection control.  
+
+
+--- PAGE 44 ---
+ 
+Page 44 of 63 
+LOE 8 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+along with emergency 
+contingency plans  
+ 
+Service providers maintain 
+adequate supplies to deliver high-
+quality care for people’s' personal 
+outcomes.  
+ 
+
+
+--- PAGE 45 ---
+ 
+Page 45 of 63 
+LOE 8 
+ 
+ 
+Inspection theme: Environment  
+ 
+ 
+What we expect to see:  
+ 
+For accommodation based services, people’s needs, preferences, and any protected characteristics, are considered in the 
+layout, decoration, maintenance and repair of the service environment. The environment helps to promote independence as much 
+as possible.  
+ 
+People’s safety is prioritised when supplying, maintaining, servicing and repairing equipment and facilities in the service. Health and 
+safety risk management strategies and processes ensure people remain safe and support them to achieve their well-being 
+outcomes.  
+ 
+
+
+--- PAGE 46 ---
+ 
+Page 46 of 63 
+LOE 9 
+ 
+ 
+Line of enquiry 9: People live in an environment that meets their needs – the service provides suitable communal and personal spaces, 
+with well-maintained facilities and equipment. Risks to health and safety are identified, mitigated, and reduced. 
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+People's privacy and dignity is 
+always prioritised in the design, 
+layout and use of living spaces. 
+ 
+Different areas are available for 
+preferred activities, private space 
+for family or alone time, all 
+maintained to a very high 
+standard and culturally 
+appropriate. Space is maximised 
+creatively, and equipment and 
+technologies superbly support 
+high-quality, personalised care.  
+ 
+People benefit from excellent use 
+of the space available through 
+creative use of living areas. The 
+environment is cleverly designed 
+to meet people’s needs and 
+wishes as far as possible, using 
+innovative ways to promote 
+independence.  
+People’s privacy and dignity are 
+considered in the design and 
+layout of the service.  
+ 
+People have access to a variety 
+of different communal and private 
+spaces in which to spend time 
+alone, socialise or entertain 
+visitors. 
+ 
+Communal spaces meet the 
+needs of people, promoting 
+independence and providing 
+opportunities for private meetings, 
+activities, and recreation.  
+ 
+People benefit from a warm, 
+comfortable, welcoming, well-lit 
+environment with plenty of fresh 
+air. The service provider ensures 
+people have suitable furnishings 
+and equipment to meet their 
+People’s privacy and dignity is not 
+always considered in the design 
+and layout of the service. 
+ 
+People’s needs are not always 
+met because there is limited 
+suitable space for people to have 
+private time with visitors or spend 
+time alone other than their 
+bedrooms. The decoration, 
+layout, and design of communal 
+and individual spaces is 
+unsatisfactory, limiting people’s 
+ability to achieve their desired 
+outcomes. 
+ 
+People’s needs are not always 
+met because the providers 
+systems for monitoring and 
+maintaining the physical 
+environment and equipment in 
+the home require strengthening. 
+People’s privacy and dignity is 
+rarely considered in the design 
+and layout of the service. 
+ 
+People’s needs are rarely met 
+because communal and private 
+spaces rarely meet the needs of 
+people, stifling independence and 
+providing limited opportunities for 
+private meetings, activities, and 
+recreation. Living spaces are 
+functional but not homely or 
+clean, with poor attention to 
+decoration and furniture quality.  
+Staff areas encroach on living 
+spaces, affecting people’s well-
+being and indicating a lack of 
+respect for it being someone’s 
+home. 
+ 
+The encroachment of staff areas 
+into living spaces negatively 
+
+
+--- PAGE 47 ---
+ 
+Page 47 of 63 
+LOE 9 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+ 
+The provider demonstrates a very 
+strong commitment to ensuring 
+the premises and any equipment 
+is maintained and serviced to a 
+very high standard. People are 
+encouraged to help with 
+decorating or furnishing the 
+premises where possible. People 
+experience outstanding care and 
+support because the provider has 
+very strong systems in place for 
+identifying and making any 
+environment or equipment 
+adjustments people require.  
+ 
+The service provider actively 
+seeks out new technology and 
+sustainable novel solutions to 
+help people live with as few 
+restrictions as possible. 
+ 
+Garden and outdoor areas 
+exemplify excellence in design, 
+providing outstanding spaces 
+where people can safely and 
+freely access nature. The 
+needs and preferences. This 
+includes specialist beds, call 
+systems, moving and handling 
+equipment, and access to 
+communication facilities. 
+Bathrooms, showers, and toilets 
+are designed to ensure privacy, 
+dignity, safety, and accessibility.  
+ 
+The provider ensures effective 
+systems are in place to maintain 
+and manage the accommodation 
+and make required adjustments to 
+meet people’s needs. 
+ 
+The service uses technology and 
+equipment to meet people’s care 
+and support needs and to support 
+their independence, in line with 
+their best interests. 
+ 
+Where available, outdoor spaces 
+are safe, attractive, and 
+accessible to all people, including 
+those with physical, sensory, and 
+cognitive impairments. Where 
+outdoor space is limited in the 
+The decoration and maintenance 
+of the accommodation falls short, 
+including unsatisfactory 
+adaptation of some facilities to 
+meet people's needs and 
+preferences. Equipment in the 
+service is not always maintained 
+and serviced as needed. While 
+some specialised equipment is 
+provided, there is insufficient 
+quantities, or it is not always 
+available when needed, or is 
+unsuitable for people’s needs. 
+ 
+The service provider lacks 
+awareness or understanding of 
+technologies and equipment for 
+care and support that could 
+positively affect outcomes for 
+people.  
+ 
+Gardens and outdoor areas are 
+inaccessible to some people in 
+the service due to physical or 
+sensory issues and the provider 
+does not actively seek alternative 
+ways to facilitate access to these. 
+impacts people’s well-being and 
+demonstrates a disrespect for the 
+sanctity of their home. 
+ 
+There is a lack of commitment by 
+the provider to make the 
+necessary adjustments required 
+to meet people’s needs. The 
+provider has inadequate systems 
+in place to manage and maintain 
+the accommodation effectively. 
+ 
+There is a lack of specialist 
+equipment which compromises 
+people’s safety, dignity, and care 
+quality. 
+ 
+Where available, outdoor areas 
+are underutilised, and access is 
+restricted due to a risk-averse 
+mindset. Where there is limited 
+accessible outdoor space, the 
+provider fails to identify and 
+facilitate access to alternative 
+spaces in the local community for 
+those who want it.  
+ 
+
+
+--- PAGE 48 ---
+ 
+Page 48 of 63 
+LOE 9 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+provider’s innovative and creative 
+approach ensures that these 
+spaces are tailored to meet the 
+physical, sensory, and cognitive 
+needs of people in person-
+centred ways. These spaces are 
+inviting and enable people to 
+venture outside independently 
+whenever possible. 
+ 
+Where outdoor space is limited, 
+the provider showcases 
+exceptional resourcefulness by 
+supporting individuals to access 
+alternative outdoor areas within 
+the community. This significantly 
+enhances people’s physical, 
+mental, and emotional well-being, 
+demonstrating a commitment to 
+high-quality, person-centred 
+support through creative and 
+innovative use of resources. 
+service, people are often 
+supported to access outdoor 
+space in the wider community. 
+ 
+When outdoor space is limited, 
+access to external green spaces 
+is rarely facilitated.  
+ 
+  
+People’s care and support needs 
+are met through the provider’s 
+highly effective safety 
+management systems, which 
+successfully anticipate and 
+People can easily navigate the 
+premises and access necessary 
+equipment safely, and this is a 
+key consideration for the provider. 
+ 
+General risk assessments for the 
+whole home are lacking adequate 
+detail, and findings are 
+inconsistently acted upon by 
+management or staff.  
+People and staff feel unsafe 
+because risk management plans 
+are unclear and uncoordinated. 
+This results in a risk averse 
+culture and restrictive practices 
+
+
+--- PAGE 49 ---
+ 
+Page 49 of 63 
+LOE 9 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+mitigate risks in the home in ways 
+that maximise people’s autonomy 
+and independence. These are 
+based on best practice and 
+sustain excellent practice and 
+improvements in the service over 
+time. The service provider 
+proactively engages with people, 
+professionals, and organisations 
+to assess and minimise risks 
+identified in the environment, 
+premises, and equipment.  
+ 
+The provider’s comprehensive 
+security measures are 
+meticulously implemented to 
+protect people while safeguarding 
+their rights, privacy, and dignity. 
+These measures ensure the 
+protection of personal property 
+and facilitate proper and 
+respectful access to and from the 
+premises. 
+The service provider actively 
+predicts and manages risks to 
+people, considering it a shared 
+responsibility for all staff. Most 
+staff are familiar with the 
+strategies and apply them 
+consistently. 
+ 
+Regular servicing, maintenance 
+and immediate repairs of facilities 
+ensures the safety and well-being 
+of people using the service. 
+ 
+The service provider ensures the 
+premises comply with current 
+legislation and national guidance 
+in relation to health and safety, 
+fire safety, environmental health 
+and any standards set by the 
+Food Standards Agency. 
+ 
+Security arrangements are in 
+place to protect people without 
+compromising their rights, 
+privacy, and dignity. This includes 
+protecting personal property and 
+providing appropriate access to 
+ 
+People are at risk of harm 
+because safety certification for 
+some equipment and facilities 
+may be out of date. 
+ 
+The home and grounds are 
+secure, but those security 
+measures do not consistently 
+consider the rights, privacy, and 
+dignity of all people in the service. 
+  
+which negatively impact on 
+people’s well-being.  
+ 
+The service provider makes little 
+or no effort to assess, monitor, or 
+improve safety in the service. 
+Staff routinely or purposefully 
+disregard the provider’s policies 
+and procedures for maintaining 
+people’s safety and security in the 
+home.  
+ 
+Maintenance systems are poorly 
+organised or ignored by staff, 
+risking people’s safety with 
+frequently malfunctioning or 
+poorly serviced equipment. Staff 
+are unclear on procedures for 
+reporting maintenance or 
+cleanliness issues, leading to 
+delays in addressing health and 
+safety issues that impact on 
+people’s well-being outcomes. 
+ 
+The provider's security measures 
+are poorly implemented, failing to 
+protect people and compromising 
+
+
+--- PAGE 50 ---
+ 
+Page 50 of 63 
+LOE 9 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+and from the premises. Where 
+there is CCTV surveillance this is 
+regulated to ensure it is overt, 
+purposeful, lawful, and respects 
+people's privacy and dignity. 
+ 
+their rights, privacy, and dignity. 
+These inadequate measures do 
+not ensure the protection of 
+personal property and hinder 
+proper and respectful access to 
+and from the premises. 
+
+
+--- PAGE 51 ---
+ 
+Page 51 of 63 
+LOE 9 
+ 
+Inspection Theme: Leadership and Management  
+ 
+ 
+ 
+ 
+What we expect to see:  
+ 
+The standards set out in the Regulations aim to ensure service providers implement governance arrangements that support smooth 
+operations and provide a foundation for high-quality care, helping people achieve their well-being outcomes. 
+
+
+--- PAGE 52 ---
+ 
+Page 52 of 63 
+LOE 10 
+ 
+ 
+Line of enquiry 10: People are supported to achieve their outcomes because the service provider has effective organisational 
+arrangements, governance and oversight to ensure smooth operations and high-quality care. This includes effective quality checks and 
+assurance processes that drive continuous service improvement; fostering transparency through sharing accurate and accessible information 
+with people, commissioners of care, regulatory bodies, agencies and professionals about the service and its delivery; gathering and 
+responding to feedback; supporting staff in raising concerns and to follow whistleblowing processes; handling complaints effectively, and 
+learning from them to improve service delivery.  
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+People have high levels of 
+confidence in the service provider 
+because leaders in the service 
+ensure there is a very strong 
+positive culture that is supportive, 
+inclusive, and respectful. Leaders 
+confidently steer the service 
+through challenges where 
+necessary. Leaders are visible 
+role models as they guide the 
+strategic direction and the pace of 
+change. 
+ 
+Leaders promote and sustain a 
+positive culture that ensures 
+equal opportunities and anti-
+discriminatory practices for all 
+protected characteristics. People 
+The service provider’s oversight 
+and governance arrangements 
+foster a positive and 
+compassionate culture in the 
+service.  
+ 
+There are effective quality 
+monitoring systems including 
+audits of care and support 
+provided, visits to the service by 
+leaders, and feedback from 
+people, staff, and visiting 
+professionals. This information is 
+used to drive continuous 
+improvements in the service. This 
+results in people having 
+confidence in how the service is 
+People do not always have 
+confidence in leaders. Leaders in 
+the service make limited efforts to 
+promote a positive culture. 
+ 
+Governance and performance 
+management is unreliable and not 
+always effective, leading to 
+systems that are not regularly 
+reviewed and / or risks that are 
+not consistently identified or 
+managed.  
+ 
+Service performance reviews are 
+sometimes superficial, and quality 
+reports demonstrate inconsistent 
+or limited analysis of results from 
+monitoring processes.  
+People do not have confidence in 
+leaders. There is a negative 
+culture in the service because 
+leaders are not visible role 
+models, and not well known to 
+staff or people. 
+ 
+The provider’s vision for the 
+service lacks clarity, collective 
+ownership, and does not focus 
+sufficiently on improving 
+outcomes. Where improvements 
+are needed staff do not feel 
+confident in contributing to or 
+implementing these. Staff are not 
+able to adapt, or think creatively 
+to meet people’s needs, 
+outcomes and wishes. 
+
+
+--- PAGE 53 ---
+ 
+Page 53 of 63 
+LOE 10 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+benefit from the provider’s clear 
+vision of the service, which 
+inspires their staff and promotes 
+equality and inclusion for all.  
+ 
+Leaders pursue specific equality, 
+diversity and inclusion goals and 
+can demonstrate their 
+advancements. The organisation 
+offers specialised training to 
+support managers and staff, 
+consistently reviews feedback to 
+improve equality, diversity and 
+inclusion, and promotes equality, 
+diversity and inclusion.  
+ 
+The aims and objectives of the 
+service provider inform the care 
+and support provided. These 
+aims and objectives are regularly 
+reviewed and reflect the 
+involvement of people who use 
+the service and other 
+stakeholders. 
+ 
+There are very well-developed 
+contingency plans in place in the 
+managed and in the leadership 
+team. 
+ 
+The provider has good 
+contingency planning in place for 
+maintaining critical business 
+activities in the event of 
+disruptions such as power 
+outages, IT failures, severe 
+weather, illness, or building and 
+road closures. 
+ 
+The provider's policies and 
+procedures are appropriate and 
+proportionate to the needs of 
+people supported by the service, 
+and they are understood and 
+implemented by staff. Policies 
+and procedures are reviewed 
+regularly to ensure they align with 
+current legislation and national 
+guidance. 
+ 
+The service provider has systems 
+established for effective financial 
+planning, budget monitoring, and 
+control in the service. This 
+ 
+Audits of quality of care 
+completed by managers fall short. 
+They do not cover all aspects of 
+the service delivered and lack 
+detailed analysis and action 
+planning to improve service 
+quality for people. 
+ 
+The provider’s contingency plans 
+are not always reviewed and 
+updated to ensure people’s needs 
+continue to be met in the event of 
+service disruption. This places 
+people at risk. 
+ 
+Staff are not always updated on 
+any changes in the provider’s 
+policies, or do not know where to 
+find latest versions to refer to. 
+ 
+The service provider has 
+inconsistent systems in place for 
+effective financial planning, 
+budget monitoring and control in 
+the service. This is placing 
+people’s well-being at risk. 
+ 
+People experience poor quality 
+care and support because the 
+provider has weak quality 
+monitoring systems in place. 
+There is a lack of monitoring by 
+managers and leaders. Roles, 
+responsibilities, and accountability 
+arrangements in the service are 
+unclear, and staff do not receive 
+honest constructive feedback 
+about their performance or areas 
+needing improvement.  
+ 
+People are at risk because the 
+provider's systems for identifying, 
+capturing, and managing 
+organisational risks and 
+contingency planning are 
+ineffective, and some legal 
+requirements are not met or are 
+poorly understood by managers 
+and staff.  
+ 
+Staff are unaware of the 
+provider’s policies and 
+procedures or routinely do not 
+
+
+--- PAGE 54 ---
+ 
+Page 54 of 63 
+LOE 10 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+event of emergencies. These 
+ensure people continue to receive 
+excellent continuity of care. 
+ 
+People and staff are meaningfully 
+involved in reviewing and 
+updating policies and procedures. 
+ 
+The service provider has strong 
+working relationships with others 
+in the sector, sharing best 
+practice to promote high quality 
+care and support for people 
+across the sector.  
+ 
+ 
+ensures people’s well-being 
+outcomes are consistently good. 
+follow them. This is not 
+recognised or addressed 
+appropriately by the provider. 
+There is no, or limited evidence 
+that equality and inclusion are 
+embedded either within policies, 
+procedures and plans or in staff 
+practice.   
+ 
+The service provider has 
+ineffective systems for financial 
+planning, budget monitoring, and 
+control in the service resulting in 
+lack of financial investment in the 
+service. This is impacting on 
+people’s well-being. 
+Leaders engage commissioners, 
+professionals, staff, and people in 
+quality assurance processes, 
+valuing their feedback to drive 
+continuous, highly effective and 
+sustainable improvements. This 
+inclusive approach ensures 
+dynamic improvement plans that 
+align with best practices in social 
+care, significantly enhancing 
+outcomes for people. 
+The service provider oversees the 
+quality of care through effective 
+audit processes. Information 
+gathered from both internal and 
+external audits guides quality 
+review reports, improvement 
+strategies, and swift problem-
+solving.  
+The provider collaborates with 
+external professionals to aid 
+improvements, and feedback is 
+The service provider's systems 
+for scrutiny and self-assessment 
+reporting in the service are not 
+always effective.  
+ 
+Internal and external feedback is 
+not always effectively analysed or 
+acted upon in a timely way, and 
+emerging issues are sometimes 
+missed until they have become 
+larger problems.  
+The need for improvement is not 
+recognised. This can lead to 
+reactive crisis management rather 
+than constructive quality 
+assurance and self-evaluation. 
+ 
+People’s opinions and 
+experiences are not heard, and 
+the provider does not make 
+adequate efforts to gather 
+feedback in meaningful ways that 
+
+
+--- PAGE 55 ---
+ 
+Page 55 of 63 
+LOE 10 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+ 
+The provider uses comprehensive 
+audits of all aspects of the service 
+to monitor practices. They 
+complete highly detailed analysis 
+of audit findings and take action 
+as a result to promote and uphold 
+high standards of care quality, 
+resulting in highly effective and 
+sustainable improvements for 
+people.  
+ 
+The service provider celebrates 
+the achievements of staff through 
+initiatives recognising those who 
+provide outstanding care and 
+support. They positively engage 
+with staff to generate ideas for 
+improving the service and involve 
+them in planning and putting 
+those ideas into practice.   
+ 
+There is a very strong 
+commitment to fostering 
+development of leadership skills 
+for staff at all levels. 
+ 
+utilised to guide planned 
+improvements. Systems are 
+established to facilitate and 
+evaluate new ideas. 
+ 
+The provider supports staff 
+development in leadership at all 
+levels.   
+ 
+The service provider ensures 
+timely notifications are sent to 
+relevant authorities in the event of 
+significant incidents in the service. 
+This ensures appropriate actions 
+are taken promptly to safeguard 
+people and maintain service 
+quality. 
+ 
+The provider does not always 
+support staff development in 
+leadership at all levels.   
+ 
+Relevant authorities are not 
+consistently informed of 
+significant events in the service. 
+Some people experience delays 
+in receiving timely professional 
+advice as a result of this, and 
+their health and well-being is 
+placed at risk of harm. 
+meet people’s communication 
+needs and preferences. 
+ 
+Oversight and audits of key 
+elements of care and support 
+provided are either absent or 
+superficial. This impacts the 
+quality of care provided and 
+hampers improvement planning.  
+ 
+Leaders do not build on 
+successes to drive further 
+improvements, failing to motivate 
+staff to engage in quality 
+assurance processes. 
+ 
+The provider does not support 
+staff development in leadership at 
+all levels.   
+ 
+The service provider rarely 
+notifies relevant authorities in the 
+event of significant incidents, 
+such as accidents, injuries, or 
+interruptions in service provision. 
+This negatively impacts on 
+people’s outcomes through 
+
+
+--- PAGE 56 ---
+ 
+Page 56 of 63 
+LOE 10 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+The provider demonstrates a very 
+strong commitment to sharing 
+information with relevant 
+authorities about events in the 
+service, fostering transparency, 
+and high levels of trust and 
+accountability, in line with their 
+duty of candour. 
+delays in timely advice being 
+sought from external agencies 
+and professionals. 
+ 
+People are confident giving 
+feedback because they know this 
+is welcomed and responded to in 
+a spirit of partnership.  
+ 
+The provider engages people and 
+staff in practical initiatives to 
+enhance equality, diversity and 
+inclusion in the service. This 
+might include involving people 
+and staff in strategy creation, 
+collecting feedback, and 
+conducting surveys. 
+Feedback from people and staff is 
+encouraged by the provider to 
+support assessing care quality, 
+considering specific conditions or 
+communication needs of 
+respondents. 
+ 
+People know how they can 
+provide feedback about their 
+experiences of the service and 
+can do so through various 
+accessible methods.  
+ 
+People are kept informed of the 
+outcomes of their feedback. This 
+is done in a timely way and via 
+communication methods that 
+meet their needs and 
+preferences. 
+People are not always 
+encouraged to provide feedback, 
+or do not have accessible means 
+to do this which meet their 
+communication needs and 
+preferences.  
+ 
+People are rarely asked for their 
+feedback, or their experiences 
+and opinions are not meaningfully 
+considered by the service 
+provider when assessing care 
+quality. If feedback is sought from 
+people, their specific conditions or 
+communication needs are not 
+adequately considered.  
+ 
+There is a closed culture in the 
+service where new ideas are 
+discouraged, and lessons are not 
+learned. 
+
+
+--- PAGE 57 ---
+ 
+Page 57 of 63 
+LOE 10 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+ 
+People feel confident raising 
+concerns, knowing their input is 
+welcomed as there is a highly 
+positive culture of openness and 
+transparency throughout the 
+service.  
+ 
+Leaders follow bespoke, creative, 
+and accessible processes to 
+address concerns or complaints. 
+This might include using external 
+professionals to ensure an 
+independent and objective 
+resolution. 
+ 
+With few exceptions, where 
+things go wrong leaders take 
+action to learn from mistakes. 
+Leaders foster a culture of 
+candour by being transparent and 
+truthful when errors occur, 
+sharing information about 
+incidents and their impact, and 
+offering apologies as appropriate.  
+ 
+Leaders are accountable for the 
+actions, behaviours, and 
+performance of their staff. 
+ 
+Staff are familiar with the 
+complaints policy and know how 
+to respond appropriately to 
+concerns or complaints.  
+ 
+Staff understand duty of candour, 
+and their whistleblowing 
+responsibilities. Staff receive 
+training in how to raise concerns, 
+including their professional 
+obligations, and are confident 
+raising issues with managers. 
+People are not always 
+encouraged to express their 
+views about their care and 
+support, and complaints cannot 
+always be made in accessible 
+ways.  
+ 
+People are uncertain the service 
+provider take their complaints 
+seriously.  
+ 
+People do not always get a 
+response when they complain. 
+ 
+The provider is inconsistent in 
+how they analyse and learn from 
+complaints and concerns.  
+People may be at risk of 
+experiencing discrimination, 
+detriment, or harassment after 
+making complaints.  
+ 
+People lack confidence their 
+complaints will be taken seriously, 
+thoroughly investigated, and 
+responded to promptly. 
+ 
+When complaints are made, they 
+are not handled in an open, 
+transparent, timely, or objective 
+manner, reflecting a defensive 
+attitude from the service provider. 
+This creates a critical and punitive 
+culture, making people wary of 
+raising concerns, and staff 
+anxious and defensive about 
+making mistakes. 
+ 
+People and staff are unclear or 
+unaware about how to raise 
+
+
+--- PAGE 58 ---
+ 
+Page 58 of 63 
+LOE 10 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+People feel confident that their 
+concerns or complaints will be 
+taken seriously, will be thoroughly 
+investigated, and responded to 
+promptly, with no fear of 
+repercussions.  
+concerns or make complaints, 
+and those who do may not feel 
+supported. This lack of support 
+means that complaints and 
+concerns do not drive meaningful 
+change as they should. 
+
+
+--- PAGE 59 ---
+ 
+Page 59 of 63 
+LOE 11 
+ 
+ 
+Line of Enquiry 11: People are supported by staff with the necessary expertise, skills, and qualifications to meet people’s care and 
+support needs. The service provider maintains an appropriate number of vetted, knowledgeable, and competent staff who are effectively 
+deployed within the service. The provider ensures continuous learning and development opportunities are provided for staff. 
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+People achieve excellent 
+outcomes because the provider 
+has a very strong commitment to 
+ensuring high numbers of 
+extremely skilled and 
+knowledgeable staff are in the 
+service at all times. The service 
+provider has highly effective 
+processes in place to ensure 
+decisions on staffing levels are 
+extremely well informed by 
+extensive evaluation of people's 
+needs, and consider the 
+statement of purpose, the 
+physical environment and local 
+context.  
+ 
+This ensures managers can be 
+highly responsive to emergency 
+situations, or sudden changes in 
+people’s needs, whilst 
+maintaining very high quality care 
+for people. 
+ 
+People achieve their personal 
+outcomes because the service 
+provider makes sure there are 
+enough suitably qualified and 
+trained staff to deliver quality care 
+and support.  
+ 
+When assigning staff to the rota, 
+managers consider the layout of 
+the environment, and the way 
+people use the service facilities, 
+and the time needed for staff to 
+get to people in the service.  
+ 
+The provider regularly checks and 
+adjusts the staffing levels and 
+skills mix to keep up with the 
+changing needs of the people 
+they support. They have plans in 
+place to manage staff sickness or 
+absences to ensure people 
+experience continuity of care.  
+ 
+In emergencies, they ensure 
+there are enough well-trained and 
+People’s needs are not always 
+met because there are 
+unsatisfactory numbers of 
+appropriately qualified staff in the 
+service, resulting in staff on shift 
+being over-stretched. Processes 
+for ensuring good staffing levels 
+need strengthening to ensure the 
+numbers and skills mix of staff 
+consistently meet the changing 
+needs of people.  
+ 
+The provider has inconsistent 
+staffing contingencies in place 
+and takes limited steps to 
+address this. 
+ 
+In emergencies, the lack of 
+adequately trained and qualified 
+staff impedes the ability of the 
+remaining staff to effectively meet 
+the needs of individuals. 
+People’s needs are rarely met 
+because the service provider fails 
+to ensure there are enough 
+numbers of qualified and trained 
+staff available to support people 
+effectively.  
+ 
+The provider has ineffective 
+processes for reviewing or 
+modifying staffing levels and skill 
+mix, leading to a mismatch 
+between staff skills, staff 
+numbers, and the changing 
+needs of the people they support.  
+ 
+Contingency plans to manage 
+staff sickness or absences are 
+inadequate, causing significant 
+disruptions in care and risk to 
+people.  
+ 
+In emergencies, there is a lack of 
+well-trained and qualified staff, 
+exacerbating the crisis and 
+
+
+--- PAGE 60 ---
+ 
+Page 60 of 63 
+LOE 11 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+The views and well-being of staff 
+are key factors considered when 
+assessing staffing. Relevant 
+professionals are consulted to 
+inform staffing arrangements 
+where appropriate. 
+qualified staff to manage both the 
+crisis and regular duties. 
+ 
+preventing staff on shift from 
+meeting people’s needs. 
+Equality, diversity and inclusion 
+values are embedded in the 
+providers recruitment processes 
+and development opportunities at 
+every level.  
+ 
+The provider actively involves 
+people in hiring decisions to 
+ensure staff providing care are 
+chosen thoughtfully.  
+ 
+The provider actively promotes 
+staff well-being. They conduct 
+thorough inductions, which often 
+exceed Social Care Wales 
+guidance on staff training. 
+  
+The service provider has strict 
+selection and vetting processes 
+for hiring staff to ensure all staff 
+and volunteers are qualified and 
+trustworthy. This includes making 
+sure any agency staff meet the 
+same standards as permanent 
+staff.  
+Permanent staff undergo routine 
+and regular checks to ensure they 
+remain suitably fit to work in the 
+service and are appropriately 
+registered with professional 
+bodies. People are encouraged to 
+have an input in recruitment 
+processes. 
+ 
+Staff qualifications and training 
+are monitored by managers and 
+leadership in the service. Gaps in 
+skills mix or lapsed training is 
+identified and addressed in a 
+timely way to ensure people are 
+well cared for.  
+The service provider’s processes 
+for vetting and selecting new staff 
+are inconsistently applied. 
+ 
+People’s opinions and 
+preferences for what staff they 
+want to support them are not 
+always asked for or acted upon 
+during recruitment processes.  
+  
+People have experienced poor 
+outcomes or are placed at risk 
+because the service provider's 
+selection and vetting processes 
+for new staff are inadequate.  
+ 
+Routine and regular fitness 
+checks for permanent staff, 
+including registration with 
+professional bodies and criminal 
+record checks, are lacking or not 
+completed in a timely manner. 
+When staff fitness issues arise, 
+these are not dealt with 
+appropriately. 
+ 
+The provider does not have 
+adequate processes in place to 
+check agency staff meet the 
+required fitness, skills and 
+experience needed to support 
+them effectively and safely.  
+
+
+--- PAGE 61 ---
+ 
+Page 61 of 63 
+LOE 11 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+Staff training and development is 
+prioritised by the provider. The 
+training provided to staff is 
+extensive, this includes equality, 
+diversity and inclusion, cultural 
+competency, and anti-racism 
+training to help managers and 
+teams improve their practices.  
+ 
+Training for staff is both 
+innovative and inclusive, 
+developed with input from staff 
+and the people they support. Staff 
+feel very well-trained and 
+supported, enabling them to 
+provide effective and safe care.  
+ 
+There are highly effective 
+systems in place to review 
+training provision and 
+requirements in the service. 
+ 
+The organisation addresses poor 
+performance promptly, supporting 
+staff to improve skills and 
+performance in response to 
+issues that arise. 
+Staff are well supported by the 
+service provider through effective 
+induction and continuous training 
+provision that is relevant to the 
+needs of people they support. 
+ 
+Staff receive copies of relevant 
+professional codes and practice 
+guidelines, which managers and 
+leaders actively promote.  
+ 
+Staff have regular one-to-one 
+supervision sessions with their 
+line manager at least quarterly, 
+and an annual review to provide 
+feedback and identify training 
+needs. 
+ 
+Staff supervision, appraisal and 
+development of staff need 
+strengthening to ensure all staff 
+have the training, skills, and 
+competence to meet people’s 
+needs.  
+New staff receive an inadequate 
+induction and there is a lack of 
+documented continuous and 
+relevant training for all staff to 
+ensure people’s needs are met.  
+Staff training and skills are 
+lacking, and the provider fails to 
+ensure people’s needs are being 
+met by qualified and skilled staff. 
+ 
+Staff have inadequate access to 
+relevant professional codes or 
+practice guidelines, and the 
+service provider is poor at 
+promoting these standards 
+actively to staff.  
+ 
+Supervision sessions with line 
+managers are infrequent or 
+untimely, and annual reviews are 
+either ineffective or not 
+conducted, leaving staff without 
+means for one-to-one feedback or 
+guidance for improvement and 
+development. This results in a 
+workforce that is ill-prepared, 
+unmotivated, and unable to 
+provide high-quality care.  
+ 
+
+
+--- PAGE 62 ---
+ 
+Page 62 of 63 
+LOE 12 
+ 
+ 
+Line of enquiry 12: For domiciliary support services only – People are supported by staff who have sufficient time to provide care, 
+with a choice in their contractual arrangements.  
+ 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+People receive care from staff 
+who are well-prepared for travel, 
+traffic, and parking. Each visit is 
+meticulously planned to include 
+time for meaningful interactions 
+and emotional support, in addition 
+to personalised physical care that 
+caters to individual needs and 
+preferences. Should the allocated 
+call time prove insufficient, the 
+provider proactively reassesses 
+the care provision and promptly 
+communicates any adjustments 
+to commissioners.  
+People are very familiar with the 
+names of their daily staff, more 
+over they are supported by a 
+consistent group of carers who 
+are attuned to their unique 
+preferences. 
+Staff well-being is actively 
+promoted. Schedule changes are 
+coordinated with skill always 
+People receive care from staff 
+who have systems in place for 
+scheduling of domiciliary support 
+visits considering realistic travel 
+times and factors like traffic and 
+parking.  
+ 
+Care time is sufficient to meet 
+personal plans. Staff have 
+enough time for breaks between 
+visits for rest and relaxation.  
+ 
+People’s care and support time is 
+allocated in schedules based on 
+people’s personalised plans for 
+care, enhancing their well-being.  
+ 
+Care staff with non-guaranteed 
+hours contracts are offered 
+alternative contractual 
+arrangements that provide them 
+with job stability, and ensure 
+people experience continuity of 
+care, resulting in a motivated 
+workforce that provides good, 
+Some people receive late calls 
+and /or appointments being cut 
+short, resulting in people feeling 
+rushed, and staff becoming more 
+task oriented. This is because the 
+service provider has implemented 
+systems for scheduling 
+domiciliary care worker visits. 
+However, these systems are not 
+always adhered to or sometimes 
+prove ineffective, leading to 
+insufficient time allocated for 
+travel, traffic, and parking 
+between appointments. Which 
+could place the well-being of 
+people at risk. 
+ 
+The service provider does not 
+always offer alternative 
+contractual arrangements to 
+domiciliary staff on non-
+guaranteed hours. Those offers 
+made are not always recorded 
+resulting in possible job instability 
+in the provider’s workforce which 
+People’s quality of care and 
+support is impacted. This is a 
+result of late or missed calls, staff 
+hurrying between appointments, 
+potentially increasing their stress 
+levels placing them at risk.  
+The service provider fails to 
+account for realistic travel times, 
+traffic, and parking, which can 
+lead to challenging schedules for 
+domiciliary staff.  
+The time allocated for individual 
+visits does not align with people’s 
+assessments, resulting in 
+unsatisfactory care experiences 
+for people. 
+Staff on non-guaranteed hours 
+are not offered alternative 
+contractual arrangements, which 
+can create job insecurity and 
+potential disruptions in people’s 
+
+
+--- PAGE 63 ---
+ 
+Page 63 of 63 
+LOE 12 
+Outcomes for people are 
+Excellent because 
+Outcomes for people are Good 
+because 
+Outcomes for people Require 
+improvement because 
+Outcomes for people Require 
+significant improvement 
+because 
+mindful of the needs of people 
+and the skills set of the staff.  
+People are involved in or notified 
+of changes whenever feasible. In 
+emergency situations, any 
+alterations to the schedule are 
+promptly communicated to 
+people, and alternative staff are 
+allocated, who are already 
+familiar to people. 
+The service provider has 
+structured, sustained schemes in 
+place to support the retention of 
+care staff.   
+reliable and consistent care, 
+which positively impacts people’s 
+lives.  
+ 
+People are informed of 
+emergency situations, any 
+alterations to the schedule are 
+communicated to people, and 
+alternative staff are allocated, 
+who are already familiar to 
+people.  
+ 
+could place the well-being of 
+people at risk.  
+  
+ 
+People are not always informed of 
+changes to schedules calls which 
+can impact on people’s well-
+being. 
+care. This situation may 
+contribute to a workforce that 
+appears less stable, with lower 
+morale, leading to inconsistent 
+and less reliable care, which can 
+affect people’s well-being 
+outcomes. 
+People are not informed of 
+schedule changes which impacts 
+the wellbeing of people and can 
+cause stress to staff who must 
+accommodate additional calls to 
+their schedule.  
+ 
+ 

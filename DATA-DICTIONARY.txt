@@ -1,0 +1,219 @@
+CIW ADULT CARE HOME INSPECTION CATALOGUE
+Snapshot date: 1 November 2026
+Source: Care Inspectorate Wales public service directory
+Filter: Care Homes for Adults (ad283d57-720b-46b0-a7a0-a0ee8ba29cc4)
+
+OPENING THE PORTAL
+Open index.html in this folder in a modern web browser. It works without a server
+or internet connection. Original online source links require internet access.
+Keep this folder intact so local report, text and database links continue to work.
+The companion ciw-care-home-inspection-portal.html one folder above embeds the
+same catalogue and links into this archive folder.
+
+FILES
+catalogue.sqlite       Persistent SQLite database.
+catalogue.json         Complete structured catalogue used by the HTML portal.
+coverage.json          Counts, completeness and extraction/download status.
+reports/               Latest published inspection PDFs, one per available service.
+text/                  PDF text with explicit PDF page numbers.
+source/directory.json  Complete raw filtered directory snapshot.
+source/search-page-*   Every original directory results page as JSON.
+source/*-analysis.json Per-report machine-assisted extracts, hashes and evidence.
+source/reference-data.json  Official directory reference values.
+guidance/              Separate official inspection/rating reference documents.
+guidance.json          Reference-document manifest and provenance.
+collect.py             Resumable acquisition and extraction code.
+capture_guidance.py    Acquisition of separate official reference documents.
+build_portal.py        Rebuilds embedded HTML from the structured catalogue.
+portal-template.html   Portal source template.
+validate_catalogue.py  Integrity and extraction-coverage validation.
+
+SCOPE AND MEANING
+The directory yielded 1,046 distinct adult-care-home service URNs. Each search
+result contains the full public service record, including latest/previous
+inspection metadata. These records, not a partial sample or a name search,
+define this inventory. All pagination totals and unique URNs are checked.
+The latestInspection field and CIW's LatestInspectionReport endpoint determine
+which report is archived. "Latest" means latest published and available through
+CIW, not necessarily the latest inspection that has occurred.
+
+No report is not a finding of poor care. Missing ratings are not a quality score.
+CIW's published rating scheme began in April 2025. Services may still have a
+latest available report preceding that scheme or no published rating.
+The portal uses separate, exact published theme ratings. There is no calculated
+overall CIW rating. Ratings are directory-snapshot values; the API does not
+provide an independently auditable effective date for each rating.
+Five services have duplicate source rating records with identical results.
+These are counted once per service/theme in charts and the normalised ratings
+table; every original rating identifier remains in raw_json. Conflicting
+duplicate results would stop normalisation rather than be silently overwritten.
+Inspection visit, report issue, report publication, service modification and
+catalogue capture dates are distinct and are retained.
+
+SUMMARY AND EVIDENCE METHOD
+Each recognised official Summary section is extracted rather than replaced by
+a generated narrative. Full findings are organised by Well-being, Care and
+Support, Environment, and Leadership and Management. Original text and PDF page
+numbers remain available for checking. Text extraction may introduce layout
+changes or damaged characters; the archived PDF is authoritative.
+One source report (Five Oaks, June 2023) contains a Summary heading but no summary
+text. Its synopsis uses explicitly labelled opening extracts from the four theme
+sections, with source pages; it is not presented as an official CIW summary.
+Two source PDFs (Abbey Dale House and Bethany Residential Home LTD) omit a Care
+and Support heading. Their page boundaries were reviewed from the content and
+inspection sequence and are explicitly noted in section_boundary_notes.
+The source/section-boundary-corrections.json file preserves these decisions.
+No source wording was rewritten or rating inferred.
+
+Selected page-linked evidence is identified by topic vocabulary and sentence
+boundaries. "Positive wording", "Improvement wording" and "Inspection evidence"
+are automatic wording/search labels, NOT independent regulatory judgements.
+Read the source before acting; negatives, historical statements or quotations
+can require interpretation. No clinical diagnosis or resident-level information
+is inferred. Topic lists are useful discovery aids, not an exhaustive taxonomy.
+
+Where identifiable, published action tables are extracted as structured rows,
+retaining category, regulation, exact wording, status, date identified and PDF
+page. "Published action table" denotes an actual source table row, including
+potentially historical or achieved actions. Do not assume a row represents a
+current unresolved issue. Raw action-table rows and full action sections remain
+available. Generic text explaining CIW's enforcement powers is excluded from
+topic evidence so it does not falsely imply that a service received a notice.
+Unrecognised table layouts are explicitly flagged for review.
+An explicit statement that no Priority Action Notice was issued is distinguished
+from a report for which the action section needs review. Merely mentioning CIW's
+powers is never labelled as a confirmed issued notice.
+
+Welsh-language and cultural provision can need improvement even when all four
+theme ratings are Good or Excellent. Source language statements are retained
+separately; they are not erased by the ratings.
+English is the archive's default language. Welsh-only availability would be
+recorded explicitly. There were no Welsh-only latest reports in this snapshot.
+
+MANAGER LEARNING
+The portal's topic checklists and action-planning prompts are assistant-suggested
+management practices, separate from CIW's published findings or requirements.
+They are not legal/clinical advice or an accreditation assessment.
+Topic charts count reports mentioning a topic, NOT services deficient in it.
+Topics overlap: counts across categories must not be added as if mutually
+exclusive. Rating percentages name their denominator and include missing values.
+Inspection-month charts show the distribution of latest report visit dates,
+not quality trends, inspection frequency, or all CIW visits during that month.
+Filtering changes the cohort; it does not create a representative sample.
+Comparison does not control for case mix, service size or inspection recency.
+
+CARE-HOME DRAWER: RATINGS AND SOURCE SIGNALS
+The right-hand care-home details panel separates published CIW theme ratings
+from assistive topic-level evidence triage. The four-theme spider/radar diagram
+is an ordinal display of the exact published ratings, not a new numeric
+assessment or an overall score. Missing ratings remain explicitly unknown and
+must not be plotted or interpreted as the lowest rating.
+
+Topic RAG badges are source-evidence signals, not official CIW ratings, current
+compliance assessments or verified current risks. Published priority-action
+wording is distinguished from improvement wording, positive practice and
+insufficient evidence. Source rows retain dates and statuses; an unknown status
+is not proof an action is unresolved, and an Achieved row must not alone create
+a current red flag. Automatic wording labels require review against the original
+PDF. A green positive-evidence signal is not an assurance that no issues exist.
+The panel links its source bullets to the archived PDF and canonical CIW profile.
+
+CareLens Cymru's Reports library replaces the earlier private working-action
+planner. No browser working-plan data is included in the public release.
+The baseline covers all captured services. Monthly evidence reports use report
+publication month, not inspection visit month, and span June 2021 to the current
+snapshot month, November 2026. Months without a latest archived report remain
+explicitly empty; they do not imply that no inspections took place.
+The same source evidence supports readable HTML reports and actual downloadable
+PDF reports. Report cohorts are fixed and do not silently change with dashboard
+filters. Manager assurance practices and suggested follow-up actions are
+separated from exact source action-table wording and published statuses.
+Do not add resident-identifiable or other sensitive information.
+HTML files in OneDrive should be opened locally; online preview may restrict
+JavaScript, storage and downloads. No data is sent to external analytics or AI.
+
+DATABASE TABLES
+runs
+  id, captured_at, filter_id, filter_label, expected_services, metadata_json.
+services
+  urn (primary key), name, provider, local_authority, postcode, nursing,
+  capacity, registration_date, source_url, raw_json, catalogue_json.
+  raw_json preserves all public fields, display flags, identifiers, bilingual
+  values, addresses, needs, conditions, responsible individuals and metadata.
+  catalogue_json contains the normalised service record plus report evidence.
+  Capacity may be present in the API/registration conditions even when the
+  directory does not display it as a separate front-end field.
+ratings
+  service_urn, theme, rating (one record per published service/theme rating).
+inspections
+  service_urn, inspection_urn, is_latest, visit_start, visit_end,
+  published_date, raw_json. Previous metadata is not a downloaded history.
+reports
+  service_urn, status, file_path, source_url, sha256, bytes, pages, language,
+  extraction_status, summary, improvement_text, priority_status, error,
+  retrieved_at.
+report_pages
+  service_urn, page, text (one row per PDF page).
+findings
+  id, service_urn, page, kind, evidence_text, topics_json.
+action_entries
+  id, service_urn, page, category, regulation, evidence_text, status,
+  date_identified, none_identified, topics_json.
+topics
+  id, name, suggested_action, owner, evidence.
+
+STATUS VALUES
+pending             Inventory captured; acquisition has not completed.
+not_published       CIW provides no latest-inspection metadata for this service.
+downloaded          A valid, readable PDF is archived and hashed.
+download_failed     Request failed or latest endpoint did not yield a valid PDF.
+extraction_failed   PDF exists but subsequent extraction failed; error retained.
+extracted           Recognised official summary and text extracted.
+summary_needs_review  Text available but no recognised Summary section.
+needs_ocr           Insufficient embedded text; not silently treated as analysed.
+
+EXAMPLE SQL (standard SQLite; no server required)
+SELECT local_authority, COUNT(*) AS homes
+FROM services GROUP BY local_authority ORDER BY homes DESC;
+
+SELECT theme, rating, COUNT(*) AS homes
+FROM ratings GROUP BY theme, rating ORDER BY theme, rating;
+
+SELECT s.name, r.status, r.extraction_status, r.error
+FROM services s JOIN reports r ON r.service_urn = s.urn
+WHERE r.status != 'downloaded' OR r.extraction_status != 'extracted';
+
+SELECT s.name, a.category, a.regulation, a.evidence_text, a.status, a.page
+FROM action_entries a JOIN services s ON s.urn = a.service_urn
+WHERE a.none_identified = 0;
+
+SELECT s.name, f.page, f.kind, f.evidence_text
+FROM findings f JOIN services s ON s.urn = f.service_urn
+WHERE f.topics_json LIKE '%"medicines"%';
+
+REBUILD / RECOVERY
+Run from this folder:
+  python collect.py
+  python collect.py --reextract
+  python collect.py --refresh-metadata
+  python capture_guidance.py
+  python generate_reports.py
+  python build_portal.py
+  python prepare_release.py
+  python build_portal.py --data public/catalogue.json --output-dir public --public
+  python validate_release.py
+  python validate_catalogue.py
+The existing raw directory snapshot is reused rather than silently replaced.
+Use a separate new folder for a later snapshot so the historical capture is
+retained. Failed requests can be retried; valid cached PDFs are hash-checked.
+Re-extraction rebuilds summaries, theme sections and evidence from cached PDFs.
+Back up the complete folder, not just the HTML file.
+
+ATTRIBUTION AND LICENCE
+Source: Care Inspectorate Wales / Welsh Government.
+Inspection reports: Crown copyright in the year stated in each report.
+The inspected report licences permit reuse under the Open Government Licence,
+excluding logos. Preserve attribution, reproduce accurately and avoid misleading
+context. Check the individual source document's licence where relevant.
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+This is an independent research/learning catalogue, not an official CIW product.

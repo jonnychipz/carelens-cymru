@@ -1,0 +1,55 @@
+{
+  "inventory_services": 1046,
+  "expected_services": 1046,
+  "ratings_published_services": 858,
+  "statuses": {
+    "not_published": 66,
+    "downloaded": 980
+  },
+  "rating_counts": {
+    "Well-being": {
+      "Not published": 188,
+      "Good": 526,
+      "Excellent": 309,
+      "Requires Improvement": 22,
+      "Requires Significant Improvement": 1
+    },
+    "Care and Support": {
+      "Not published": 188,
+      "Good": 595,
+      "Excellent": 212,
+      "Requires Improvement": 40,
+      "Requires Significant Improvement": 11
+    },
+    "Environment": {
+      "Not published": 188,
+      "Good": 696,
+      "Excellent": 116,
+      "Requires Improvement": 34,
+      "Requires Significant Improvement": 12
+    },
+    "Leadership and Management": {
+      "Not published": 188,
+      "Good": 592,
+      "Excellent": 207,
+      "Requires Significant Improvement": 21,
+      "Requires Improvement": 38
+    }
+  },
+  "report_synopses": 980,
+  "official_summaries": 979,
+  "archived_pdf_files": 980,
+  "archived_pdf_bytes": 172290064,
+  "published_action_rows": 692,
+  "specific_action_rows": 454,
+  "full_text_pages": 9126,
+  "errors": [],
+  "review": [
+    {
+      "urn": "SIN-00009953-MFDC",
+      "name": "Five Oaks",
+      "reason": "Source Summary section blank/absent; labelled theme-based synopsis supplied"
+    }
+  ],
+  "passed": true
+}

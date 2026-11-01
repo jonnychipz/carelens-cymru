@@ -1,0 +1,44 @@
+CareLens Cymru application source code
+
+MIT License
+
+Copyright (c) 2026 John Lunn
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Separate data and document rights
+Leaflet 1.9.4 is separately licensed under BSD-2-Clause.
+Its licence is retained in assets/vendor/LEAFLET-LICENSE.txt.
+OpenStreetMap street-map data and tile services retain their own attribution
+and usage terms; map attribution is displayed in the application.
+
+This MIT licence applies only to the original application code and branding,
+not to Care Inspectorate Wales / Welsh Government source material.
+
+CIW inspection reports and source extracts are Crown copyright in the year
+identified in each source report. Their reuse is governed by the Open Government
+Licence where stated in the source document, excluding logos. This catalogue
+retains attribution and links to the original public documents and does not
+claim ownership of those documents or endorsement by CIW.
+
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+
+The manager reports contain attributed source extracts and original analytical
+presentation. Source material retains its separate rights. No official CIW
+logo is used as the CareLens Cymru brand.

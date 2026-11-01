@@ -1,0 +1,23 @@
+CIW source reuse context
+Source: https://www.careinspectorate.wales/copyright
+Retrieved: 1 November 2026
+
+CIW's general copyright statement permits use and reuse of the information on
+its website, excluding logos, under the Open Government Licence. Material must
+be reproduced accurately, not used in a misleading context, and attributed to
+its source and Crown copyright. Separately identified third-party material is
+not covered by this permission.
+
+The public catalogue attributes CIW / Welsh Government, retains the unchanged
+source inspection PDFs and their document-level notices, and uses an original
+CareLens Cymru SVG identity rather than CIW's official logo as app branding.
+
+979 of the 980 archived inspection text extractions contain an explicit Open
+Government Licence notice. The Haven (SIN-00011736-WHQP) PDF has no readable
+document-level licence notice in its extracted text; CIW's general website
+copyright statement supplies the website reuse context. The original PDF is
+preserved and the absence of an extracted notice is not silently ignored.
+
+Source source material: Care Inspectorate Wales / Welsh Government.
+Crown copyright in the year identified in each report.
+https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/

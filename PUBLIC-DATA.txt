@@ -1,0 +1,73 @@
+CARE LENS CYMRU - PUBLIC RELEASE DATA
+
+CareLens Cymru is an independent inspection-evidence and manager-learning tool
+developed by John Lunn. It is not an official CIW service or endorsed by CIW.
+
+Public release authorised by John on 1 November 2026.
+Repository: https://github.com/jonnychipz/carelens-cymru
+Site: https://jonnychipz.github.io/carelens-cymru/
+
+WHAT IS PUBLIC
+The approved public release contains the application source and original SVG
+brand, contact-minimised public care-home directory metadata, published theme
+ratings, source inspection evidence, the unchanged original public inspection
+PDFs, full extracted report text, manager baseline/monthly learning reports,
+official guidance, attribution and methodology.
+
+Directory emails, telephone numbers and responsible-individual contact/name
+fields are omitted from the public structured catalogue and public database.
+Original public PDFs are unchanged and may contain information CIW itself
+publishes, including service telephone numbers, names and anonymised quotations.
+No resident-identifiable information is added or inferred.
+Private local action plans, browser storage, credentials, raw contact-bearing
+directory JSON and unrelated local files are not part of the release.
+
+PUBLIC DATABASE
+The downloadable catalogue.sqlite is a rebuilt contact-minimised public data
+product, not a copy of the private research database. Tables:
+metadata       capture and release provenance (key,value)
+services       URN, name, provider, authority, postcode, nursing, capacity,
+               source URL and contact-minimised metadata_json
+ratings        one published rating per service/theme
+inspections    latest and available previous inspection metadata, not history PDFs
+reports        status, archived path, source URL, hash, pages, synopsis provenance,
+               source synopsis and structured evidence_json
+report_pages   full original extracted text with PDF page numbers
+findings       selected original wording, source page, search label and topics
+action_entries exact action-table wording, category, dates/status and source page
+topics         assistant-suggested assurance practices and owners
+
+All original source report text remains attributed and can be checked against
+the PDFs. Source dates and page numbers are retained. Topic and wording labels
+are discovery aids, not independent regulatory findings.
+
+REPORTING BASIS
+The baseline covers every service in this capture. Monthly reports group the
+latest archived reports by their CIW report publication month, NOT visit month.
+The capture does not include every report or inspection from previous months.
+Empty months mean no latest archived reports for that month, not no inspections.
+Current directory theme ratings are snapshot values, not a time series or proof
+of a rating's historical effective date.
+Published action rows may be historical or Achieved. Their existence does not
+establish a currently unresolved failure.
+
+WEBSITE AND BRAND IMAGES
+Website references are supplied by the original public CIW directory, not
+guessed from a home's name. Where a source website is reachable, its declared
+logo or site icon can be shown in the home drawer. These images remain hosted
+by their original websites, may identify a shared provider rather than the
+individual home, and retain their owner's rights. Verification confirms a
+source-page reference and a responding image URL; it is not certification of
+ownership, current brand identity, or service endorsement.
+Unverified/unavailable logos use labelled initials, not invented official marks.
+Site-image requests use no referrer; external image availability may change.
+The original CareLens Cymru SVG identity is separate from these source images.
+
+BACKUP AND REPRODUCTION
+Download the public repository for app source and this approved snapshot.
+The underlying public dataset is in public/catalogue.json and the public SQLite
+database. Report-library.json links manager PDFs and HTML reports.
+The original private research archive remains local and is not overwritten.
+Code and original branding use the MIT licence; CIW extracts/PDFs retain Crown
+copyright and their original Open Government Licence terms where stated.
+See LICENSE and DATA-DICTIONARY.txt for methodological and rights limitations.

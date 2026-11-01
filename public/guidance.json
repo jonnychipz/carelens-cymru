@@ -1,0 +1,45 @@
+{
+  "captured_at": "2026-11-01T15:20:51.558681+00:00",
+  "source_page": "https://www.careinspectorate.wales/ratings-care-home-and-domiciliary-support-services",
+  "documents": [
+    {
+      "title": "Framework for inspection of accommodation based and domiciliary support services",
+      "source_url": "https://www.careinspectorate.wales/sites/default/files/2025-05/250508-framework-Inspecting-Adult-and-Children-en.pdf",
+      "file": "guidance/inspection-framework.pdf",
+      "sha256": "e7f8f4dd121dcd64d354c4b9b982aecc37dfad5b40caab0d3996a09e0bdbafc6",
+      "bytes": 1141271,
+      "pages": 63
+    },
+    {
+      "title": "A guide for care providers on how to display ratings - April 2025",
+      "source_url": "https://www.careinspectorate.wales/sites/default/files/2025-03/250320-a-guide-to-displaying-ratings-en.pdf",
+      "file": "guidance/displaying-ratings.pdf",
+      "sha256": "5b4e174e326fcc185d321bc678684aab7fa70b7017f8db2cf13c5e3c5feb6066",
+      "bytes": 2534199,
+      "pages": 6
+    },
+    {
+      "title": "Understanding ratings: Provider FAQs",
+      "source_url": "https://www.careinspectorate.wales/sites/default/files/2025-03/250324-ratings-FAQ-providers-en.pdf",
+      "file": "guidance/ratings-provider-faq.pdf",
+      "sha256": "505f51c84abd32e8ae4850a0ef665136c48f210bf295e39feaad53cb385a9750",
+      "bytes": 265166,
+      "pages": 4
+    },
+    {
+      "title": "Getting ready for ratings: provider checklist",
+      "source_url": "https://www.careinspectorate.wales/sites/default/files/2025-03/250312-getting%20readyforratings-en_0.pdf",
+      "file": "guidance/ratings-pre-launch-checklist.pdf",
+      "sha256": "756cecad58bbb99f89a64c7031dface9a9d1c842db2422a875349ce6d5af8b8d",
+      "bytes": 164587,
+      "pages": 4
+    }
+  ],
+  "rating_labels": [
+    "Excellent",
+    "Good",
+    "Requires Improvement",
+    "Requires Significant Improvement"
+  ],
+  "context": "CIW states that published ratings began in April 2025. The directory is a snapshot, not a complete rating history."
+}

@@ -1,0 +1,21 @@
+# Preserve the research archive locally; publish only the approved release.
+__pycache__/
+*.pyc
+*.tmp
+*.part
+catalogue.json
+catalogue.sqlite
+catalogue.sqlite-*
+coverage.json
+guidance.json
+validation.json
+source/
+text/
+reports/
+guidance/
+index.html
+report-library.json
+management-reports/
+public/
+release-validation.json
+customer-branding.json
