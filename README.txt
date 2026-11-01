@@ -92,6 +92,11 @@ and OpenStreetMap standard raster tiles. Street tiles and source-hosted logos
 require internet access; normal tile/image requests disclose the requested
 resource to the provider, not the inspection corpus. OpenStreetMap contributors
 are attributed on the map. Do not bulk-download tiles or remove attribution.
+Street tiles run on the public HTTPS Pages origin with an explicit origin
+referrer and normal browser caching. Local or embedded preview copies retain
+home markers but link to the live map instead of sending unidentified requests.
+Privacy extensions or network-level/provider blocks cannot be overridden by
+the application. CareLens does not proxy, disguise or cache-bust tile requests.
 
 LICENCE AND INDEPENDENCE
 Original code and CareLens Cymru branding: MIT licence.

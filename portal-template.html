@@ -4,6 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <link rel="icon" href="data:,">
 <meta name="description" content="CareLens Cymru: independent Welsh care home inspection evidence, source-linked learning and management reports.">
 <title>CareLens Cymru · Inspection evidence. Better care.</title>
@@ -512,8 +513,15 @@ function renderMap(){
   $('map-count').textContent=count(located.length)+' mapped homes · '+count(cohort.length-located.length)+' without usable coordinates';
   if(!streetMap){
     streetMap=L.map('home-map',{zoomControl:false,preferCanvas:true}).setView([52.4,-3.6],7);
-    const tiles=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap contributors</a>'});
-    tiles.on('tileerror',()=>{$('map-tile-status').className='map-error';$('map-tile-status').textContent='Some street tiles could not load. Home markers and source details remain available; check your connection or zoom to another area.';});tiles.addTo(streetMap);
+    const publicOrigin=location.protocol==='https:'&&location.hostname==='jonnychipz.github.io';
+    const status=$('map-tile-status');
+    if(publicOrigin){
+      const tiles=L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,referrerPolicy:'origin',updateWhenIdle:true,updateWhenZooming:false,keepBuffer:1,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap contributors</a>'});
+      tiles.on('tileerror',()=>{status.className='map-error';status.replaceChildren(paragraph('Street tiles were blocked or unavailable. Home markers still work. Privacy software or network restrictions may prevent the required website referrer; CareLens cannot override a provider/network block.'),link('Open the live map in your normal browser','https://jonnychipz.github.io/carelens-cymru/#map'),document.createTextNode(' · '),link('OpenStreetMap tile requirements','https://operations.osmfoundation.org/policies/tiles/'));});
+      tiles.addTo(streetMap);
+    }else{
+      status.className='map-error';status.replaceChildren(paragraph('This local or embedded preview cannot reliably identify the public website to OpenStreetMap. Street tiles are disabled here; home markers and inspection details still work.'),link('Open the live street map','https://jonnychipz.github.io/carelens-cymru/#map'));
+    }
     streetMarkers=L.layerGroup().addTo(streetMap);
   }
   streetMarkers.clearLayers();streetBounds=located.length?L.latLngBounds(located.map(s=>[s.latitude,s.longitude])):null;
