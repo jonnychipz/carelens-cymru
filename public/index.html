@@ -859,6 +859,7 @@ dialog#service-dialog::backdrop{background:var(--cp-overlay);backdrop-filter:non
 @media(min-width:1151px){.layout{grid-template-columns:288px minmax(0,1fr)}}
 .theme-donuts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;margin:0 0 24px}.theme-donut{padding:16px}.theme-donut h3{min-height:45px;font-size:14px}.theme-donut .chart svg{max-height:220px}.donut-key{display:grid;gap:8px}.donut-key button{display:flex;justify-content:start;gap:6px;width:100%;font-size:10px}.donut-key button span{flex:1;text-align:left}.donut-key strong{font-size:10px;white-space:nowrap}.theme-donut summary{font-size:10px;padding:8px}.map-layout{display:grid;grid-template-columns:minmax(0,2fr) minmax(240px,1fr);gap:20px;align-items:start}.map-surface{border:1px solid var(--cp-border);border-radius:12px;overflow:hidden}.map-surface svg{display:block;width:100%;max-height:700px}#map-home-preview{position:sticky;top:calc(var(--header-height) + 20px)}
 .street-map{height:650px;min-height:400px;background:var(--cp-surface-soft)}.leaflet-container{font-family:"Segoe UI",sans-serif}.leaflet-popup-content-wrapper,.leaflet-popup-tip{background:var(--cp-surface);color:var(--cp-text)}.leaflet-popup-content{min-width:240px;font-size:12px}.leaflet-popup-content h3{font-size:15px;margin:0 0 8px}.leaflet-popup-content .toolbar{gap:6px;margin:5px 0}.leaflet-popup-content button{margin-top:8px}.leaflet-control-attribution{color:var(--cp-text);background:var(--cp-surface)}.map-layout .map-surface svg{max-height:none;width:auto}.map-error{padding:12px;background:var(--cp-surface);color:var(--cp-text);font-size:12px;border:1px solid var(--cp-border)}
+.map-popup-brand{display:flex;gap:12px;align-items:center;margin-bottom:12px}.map-popup-brand img{width:58px;height:48px;object-fit:contain;border-radius:6px;background:var(--cp-bg-elevated);padding:4px}.map-popup-brand .home-monogram{width:54px;text-align:center;font-size:20px}.map-popup-brand h3{margin:0 0 3px}.map-popup-brand p{margin:0;font-size:11px}.map-popup-ratings{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:10px;padding:12px 0;border-top:1px solid var(--cp-border);border-bottom:1px solid var(--cp-border)}.map-popup-ratings>div>span:first-child{display:block;font-size:10px;color:var(--cp-text-muted);margin-bottom:4px}.map-popup-content>.primary{width:100%;margin-top:12px}.map-popup-content>p{font-size:11px;margin:8px 0}.map-popup-content a{font-size:12px}.leaflet-popup-content{margin:16px 20px;max-width:320px}.leaflet-popup-content-wrapper{border:1px solid var(--cp-border);border-radius:12px}
 @media(max-width:1200px){.theme-donuts{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:760px){.theme-donuts{gap:10px}.theme-donut{padding:12px}.map-layout{grid-template-columns:1fr}#map-home-preview{position:static}.theme-donut .chart svg{max-height:170px}}@media(max-width:420px){.donut-key button{flex-wrap:wrap}.donut-key strong{margin-left:14px}}
 #sidebar .details-body{padding:0 0 12px}#sidebar select{font-size:12px;width:100%}#sidebar .filter-reset{margin:0 0 8px}#sidebar .filters>p:not(#rating-filter-help){font-size:11px}.home-brand-image:has(img){background:var(--cp-bg-elevated)}header nav{max-width:1580px}
 @keyframes drawer-enter{from{transform:translateX(40px);opacity:.7}to{transform:translateX(0);opacity:1}}
@@ -1173,8 +1174,14 @@ function renderCoordinateMap(){
   for(const s of located){const [x,y]=project(s.longitude,s.latitude);if(x<0||x>780||y<0||y>690)continue;const point=svgNode('circle',{cx:x,cy:y,r:4.5,fill:'var(--cp-accent)',stroke:'var(--cp-surface)','stroke-width':1,opacity:.8}),title=svgNode('title');title.textContent=s.name+' · '+s.local_authority+' · latest visit '+date(visit(s));point.append(title);point.addEventListener('mouseenter',()=>preview(s));point.addEventListener('focus',()=>preview(s));svgAction(point,s.name+' in '+s.local_authority+'. Open inspection details.',()=>openDetail(s));svg.append(point);}
   $('home-map').replaceChildren(svg);const list=$('map-home-list');list.replaceChildren();list.append(accordion('Mapped homes · '+count(located.length),body=>{const items=element('div'),pagination=element('div');append(body,items,pagination);function show(page){items.replaceChildren();for(const s of located.slice((page-1)*20,page*20))items.append(append(element('div',null,{class:'toolbar'}),button(s.name,()=>openDetail(s),'text-button'),element('span',s.local_authority+' · '+s.postcode)));pager(pagination,page,located.length,20,show);}show(1);}));
 }
-let streetMap=null,streetMarkers=null,streetBounds=null;
+let streetMap=null,streetMarkers=null,streetBounds=null,hoverPopupTimer=null;
+function cancelHoverClose(){clearTimeout(hoverPopupTimer);}
+function scheduleHoverClose(popup){
+  if(!popup)return;
+  cancelHoverClose();hoverPopupTimer=setTimeout(()=>{const node=popup.getElement();if(node&&(node.matches(':hover')||node.contains(document.activeElement)))return;if(streetMap?.hasLayer(popup))streetMap.closePopup(popup);},240);
+}
 function renderMap(){
+  cancelHoverClose();
   const located=cohort.filter(s=>Number.isFinite(s.latitude)&&Number.isFinite(s.longitude)&&s.latitude>=50&&s.latitude<=55&&s.longitude>=-6&&s.longitude<=-1);
   $('map-count').textContent=count(located.length)+' mapped homes · '+count(cohort.length-located.length)+' without usable coordinates';
   if(!streetMap){
@@ -1192,17 +1199,24 @@ function renderMap(){
   }
   streetMarkers.clearLayers();streetBounds=located.length?L.latLngBounds(located.map(s=>[s.latitude,s.longitude])):null;
   const preview=(s,popup=false)=>{
-    const content=element('div');append(content,element('h3',s.name),paragraph([s.local_authority,s.postcode].filter(Boolean).join(' · ')),paragraph(s.provider,'muted'),paragraph('Latest visit '+date(visit(s))+' · published '+date(s.inspection?.reportPublishedActualDate),'muted'));
-    for(const theme of themes)content.append(append(element('div',null,{class:'toolbar'}),element('span',theme),ratingNode(ratingOf(s,theme))));
-    content.append(button('Open inspection details →',()=>{streetMap.closePopup();openDetail(s);},'primary'));
+    const content=element('div',null,{class:'map-popup-content'}),brand=s.branding||{},heading=element('div',null,{class:'map-popup-brand'}),identity=element('div');
+    if(brand.verified&&external(brand.logo_url)?.startsWith('https://')){const image=element('img',null,{src:external(brand.logo_url),alt:(brand.image_kind||'Website image')+' from source website',referrerpolicy:'no-referrer'});image.addEventListener('error',()=>image.replaceWith(element('span',(s.name||'Home').split(/\s+/).slice(0,2).map(w=>w[0]).join(''),{class:'home-monogram'})),{once:true});heading.append(image);}
+    else heading.append(element('span',(s.name||'Home').split(/\s+/).slice(0,2).map(w=>w[0]).join(''),{class:'home-monogram'}));
+    append(identity,element('h3',s.name),paragraph([s.local_authority,s.postcode].filter(Boolean).join(' · '),'muted'));append(heading,identity);content.append(heading);
+    const website=external(brand.website_url||s.website);if(website)content.append(link('Visit care provider website ↗',website));else content.append(paragraph('Website not published','muted'));
+    content.append(paragraph(s.provider,'muted'));if(!brand.verified)content.append(paragraph('No verified logo · initials shown','muted'));
+    const ratings=element('div',null,{class:'map-popup-ratings'});for(const theme of themes)ratings.append(append(element('div'),element('span',theme),ratingNode(ratingOf(s,theme))));content.append(ratings);
+    append(content,paragraph('Latest visit '+date(visit(s))+' · published '+date(s.inspection?.reportPublishedActualDate),'muted'),button('Open inspection details →',()=>{cancelHoverClose();streetMap.closePopup();openDetail(s);},'primary'));
+    if(popup){content.addEventListener('mouseenter',cancelHoverClose);content.addEventListener('mouseleave',()=>scheduleHoverClose(streetMap._popup));content.addEventListener('focusin',cancelHoverClose);content.addEventListener('focusout',()=>{if(streetMap._popup)scheduleHoverClose(streetMap._popup);});}
     const nearby=located.filter(other=>other.urn!==s.urn&&Math.abs(other.latitude-s.latitude)<.002&&Math.abs(other.longitude-s.longitude)<.002);
     if(nearby.length){content.append(element('strong','Nearby / overlapping homes'));for(const other of nearby.slice(0,10))content.append(append(element('div'),button(other.name,()=>{streetMap.closePopup();openDetail(other);},'text-button')));}
     return content;
   };
   for(const s of located){
     const marker=L.circleMarker([s.latitude,s.longitude],{radius:6,weight:1,color:getComputedStyle(document.documentElement).getPropertyValue('--cp-surface').trim(),fillColor:getComputedStyle(document.documentElement).getPropertyValue('--cp-accent').trim(),fillOpacity:.85}).addTo(streetMarkers);
-    marker.bindPopup(()=>preview(s,true),{maxWidth:360,autoPan:true,closeButton:true});
-    marker.on('mouseover',()=>{marker.openPopup();$('map-home-preview').replaceChildren(preview(s));});
+    marker.bindPopup(()=>preview(s,true),{maxWidth:360,autoPan:false,closeButton:true});
+    marker.on('mouseover',()=>{cancelHoverClose();marker.openPopup();$('map-home-preview').replaceChildren(preview(s));});
+    marker.on('mouseout',()=>scheduleHoverClose(marker.getPopup()));
     marker.on('click',()=>{$('map-home-preview').replaceChildren(preview(s));marker.openPopup();});
   }
   const list=$('map-home-list');list.replaceChildren();list.append(accordion('Filtered mapped homes · '+count(located.length),body=>{const items=element('div'),pagination=element('div');append(body,items,pagination);function show(page){items.replaceChildren();for(const s of located.slice((page-1)*20,page*20))items.append(append(element('div',null,{class:'toolbar'}),button(s.name,()=>openDetail(s),'text-button'),element('span',s.local_authority+' · '+s.postcode),button('Locate on map',()=>{streetMap.setView([s.latitude,s.longitude],16);L.popup().setLatLng([s.latitude,s.longitude]).setContent(preview(s,true)).openOn(streetMap);},'text-button')));pager(pagination,page,located.length,20,show);}show(1);}));
